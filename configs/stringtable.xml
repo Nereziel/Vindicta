@@ -15,7 +15,7 @@
 				<Original>Cancel</Original>
 				<German>Abbrechen</German>
 				<Polish>Anuluj</Polish>
-				<Czech>zrušit</Czech>
+				<Czech>Zrušit</Czech>
 				<French>Annuler</French>
 				<Chinesesimp>取消</Chinesesimp>
 				<Russian>Отменить</Russian>
@@ -24,7 +24,7 @@
 				<Original>Select an object</Original>
 				<German>Wähle ein Objekt aus</German>
 				<Polish>Wybierz obiekt</Polish>
-				<Czech>Vyberte objekt</Czech>
+				<Czech>Vyber objekt</Czech>
 				<French>Sélectionnez un objet</French>
 				<Chinesesimp>选择一个物体</Chinesesimp>
 				<Russian>Выбрать объект</Russian>
@@ -33,7 +33,7 @@
 				<Original>Not looking at anything</Original>
 				<German>Nichts ausgewählt</German>
 				<Polish>Na nic nie patrzysz</Polish>
-				<Czech>zrušit výběr</Czech>
+				<Czech>Zrušit výběr</Czech>
 				<French>Ne regarde rien</French>
 				<Chinesesimp>未指向任何东西</Chinesesimp>
 				<Russian>Ты ни на что не смотришь</Russian>
@@ -42,7 +42,7 @@
 				<Original>Loading to inventory in %1</Original>
 				<German>Lade ins Inventar in %1</German>
 				<Polish>Ładowanie do ekwipunku w %1</Polish>
-				<Czech>Načítání do inventáře v% 1</Czech>
+				<Czech>Načítání do inventáře v %1</Czech>
 				<French>Chargement dans l'inventaire dans %1</French>
 				<Chinesesimp>装载到%1的物品栏中</Chinesesimp>
 				<Russian>Загрузка в инвентарь в %1</Russian>
@@ -51,7 +51,7 @@
 				<Original>Shift and Ctrl keys change how many items you move at once</Original>
 				<German>Die Umschalt- und Strg-Tasten ändern, wie viele Items auf einmal verschoben werden</German>
 				<Polish>Klawisze Shift i Ctrl zmieniają liczbę przedmiotów przenoszonych jednocześnie</Polish>
-				<Czech>Klávesy Shift a Ctrl mění počet položek, které přesouváte najednou</Czech>
+				<Czech>Klávesy Shift a Ctrl mění počet položek, které přesouváš najednou</Czech>
 				<French>Les touches Maj et Ctrl modifient le nombre d'éléments que vous déplacez en une fois</French>
 				<Chinesesimp>Shift和Ctrl键能够更改移动物品的数量</Chinesesimp>
 				<Russian>Клавиши Shift и Ctrl изменяют количество перемещаемых элементов одновременно</Russian>
@@ -73,7 +73,7 @@
 				<Original>Arsenal to external Inventory</Original>
 				<German>Arsenal zu externem Inventar</German>
 				<Polish>Arsenał do ekwipunku zewnętrznego</Polish>
-				<Czech>Arzenál do vnějšího inventáře</Czech>
+				<Czech>Arzenál do externího inventáře</Czech>
 				<French>Arsenal vers l'inventaire externe</French>
 				<Chinesesimp>从军火库转移至外部物品栏</Chinesesimp>
 				<Russian>Арсенал к внешнему Инвентарю</Russian>
@@ -82,7 +82,7 @@
 			<Original>Select something with an inventory to load into</Original>
 				<German>Wähle etwas mit einem Inventar zum Einladen</German>
 				<Polish>Wybierz coś z ekwipunkiem do załadowania przedmiotów</Polish>
-				<Czech>Vyberte z inventáře, do kterého se má načíst</Czech>
+				<Czech>Vyber něco s inventářem do kterého se má přesunout</Czech>
 				<French>Sélectionnez quelque chose avec un inventaire dans lequel charger</French>
 				<Chinesesimp>选择有物品栏的物体进行装载</Chinesesimp>
 				<Russian>Выберите из инвентаря для загрузки</Russian>
@@ -100,7 +100,7 @@
 				<Original>Please select an object with an inventory, or another Arsenal to load from</Original>
 				<German>Bitte wähle ein Objekt mit einem Inventar oder ein anderes Arsenal zum Ausladen</German>
 				<Polish>Wybierz obiekt z ekwipunkiem lub inny Arsenał, z którego można załadować aktualny</Polish>
-				<Czech>Vyberte objekt s inventářem nebo jiný arzenál, ze který chcete načíst</Czech>
+				<Czech>Vyber objekt s inventářem nebo jiný arzenál, ze kterého chceš přesnout</Czech>
 				<French>Veuillez sélectionner un objet avec un inventaire ou un autre Arsenal à partir duquel charger</French>
 				<Chinesesimp>请选择有物品栏的物体，或另一个军火库</Chinesesimp>
 				<Russian>Выберите предмет из инвентаря или другой арсенал для загрузки</Russian>
@@ -109,7 +109,7 @@
 				<Original>Not looking at an object</Original>
 				<German>Kein Objekt ausgewählt</German>
 				<Polish>Nie patrzysz na żaden obiekt</Polish>
-				<Czech>Nedíváme se na objekt</Czech>
+				<Czech>Nedíváš se na objekt</Czech>
 				<French>Ne regarde pas l'objet</French>
 				<Chinesesimp>未指向物体</Chinesesimp>
 				<Russian>Вы не смотрите ни на какой объект</Russian>
@@ -149,7 +149,7 @@
 				<Original>Garage Vehicle</Original>
 				<German>Fahrzeug verstauen</German>
 				<Polish>Schowaj pojazd do garażu</Polish>
-				<Czech>vozidlo v garáži</Czech>
+				<Czech>Vozidlo do garáže</Czech>
 				<French>Garage Véhicule</French>
 				<Chinesesimp>停靠载具</Chinesesimp>
 				<Russian>Поставить в Гараж</Russian>
@@ -167,7 +167,7 @@
 				<Original>Not looking at a vehicle</Original>
 				<German>Kein Fahrzeug ausgewählt</German>
 				<Polish>Nie patrzysz się na pojazd</Polish>
-				<Czech>Nedíváme se na vozidlo</Czech>
+				<Czech>Nedíváš se na vozidlo</Czech>
 				<French>Ne regarde pas le véhicule</French>
 				<Chinesesimp>未指向任何载具</Chinesesimp>
 				<Russian>Вы не смотрите на технику</Russian>
@@ -189,7 +189,7 @@
 				<Original>Refuel cargo or tank</Original>
 				<German>Tank oder Ladung betanken</German>
 				<Polish>Tankuj ładunek lub zbiornik</Polish>
-				<Czech>Doplňte náklad nebo palivo</Czech>
+				<Czech>Doplňit náklad nebo palivo</Czech>
 				<French>Ravitailler la citerne ou le réservoir</French>
 				<Chinesesimp>为储油箱或储油罐加油</Chinesesimp>
 				<Russian>Заправка бака или груза</Russian>
@@ -286,7 +286,7 @@
 				<Original>OVERT: WEAPON</Original>
 				<German>OFFENKUNDIG: WAFFE</German>
 				<Polish>WYKRYTY: BROŃ</Polish>
-				<Czech>OVERT: ZBRANĚ</Czech>
+				<Czech>NEPŘÁTELSKÝ: ZBRAŇ</Czech>
 				<French>APPARENCE: ARMER</French>
 				<Chinesesimp>显著敌对：武器</Chinesesimp>
 				<Russian>ОТКРЫТЫЙ: ОРУЖИЕ</Russian>
@@ -304,7 +304,7 @@
 				<Original>SURRENDERED</Original>
 				<German>KAPITULIERT</German>
 				<Polish>PODDAJE SIĘ</Polish>
-				<Czech>VZDAL</Czech>
+				<Czech>VZDÁT SE</Czech>
 				<French>RENDU</French>
 				<Chinesesimp>已投降</Chinesesimp>
 				<Russian>СДАЛСЯ</Russian>
@@ -313,7 +313,7 @@
 				<Original>OVERT: WEAPON DISCHARGED!</Original>
 				<German>OFFENKUNDIG: WAFFE ENTRLADEN!</German>
 				<Polish>WYKRYTY: WYSTRZELONO Z BRONI!</Polish>
-				<Czech>OVERT: ZBRAŇ VYBITÁ!</Czech>
+				<Czech>NEPŘÁTELSKÝ: ZBRAŇ VYBITÁ!</Czech>
 				<French>APPARENCE: ARME DÉCHARGÉE!</French>
 				<Chinesesimp>显著敌对：武器射击！</Chinesesimp>
 				<Russian>ОТКРЫТЫЙ: ДОСТАЛ ОРУЖИЕ!</Russian>
@@ -331,7 +331,7 @@
 				<Original>OVERT: MILITARY VEHICLE</Original>
 				<German>OFFENKUNDIG: MILITÄR FAHRZEUG</German>
 				<Polish>WYKRYTY: POJAZD WOJSKOWY</Polish>
-				<Czech>OVERT: VOJENSKÉ VOZIDLO</Czech>
+				<Czech>NEPŘÁTELSKÝ: VOJENSKÉ VOZIDLO</Czech>
 				<French>APPARENCE: VÉHICULE MILITAIRE</French>
 				<Chinesesimp>显著敌对：军用载具</Chinesesimp>
 				<Russian>ОТКРЫТЫЙ: ВОЕННАЯ ТЕХНИКА</Russian>
@@ -376,7 +376,7 @@
 				<Original>THIS AREA IS BEING WATCHED! STAY ON THE ROAD!</Original>
 				<German>DIESES GEBIET WIRD ÜBERWACHT! BLEIB AUF DER STRAẞE!</German>
 				<Polish>JESTEŚ OBSERWOWANY! POZOSTAŃ NA DRODZE!</Polish>
-				<Czech>TATO OBLAST JE SLEDOVÁNA! ZŮSTAŇTE NA CESTĚ!</Czech>
+				<Czech>TATO OBLAST JE SLEDOVÁNA! ZŮSTAŇ NA CESTĚ!</Czech>
 				<French>CETTE ZONE EST SURVEILLÉE! RESTEZ SUR LA ROUTE!</French>
 				<Chinesesimp>该地区受到监控！不要离开道路！</Chinesesimp>
 				<Russian>ЭТОТ РАЙОН ПОД НАБЛЮДЕНИЕМ! ОСТАВАЙТЕСЬ НА ДОРОГЕ!</Russian>
@@ -394,7 +394,7 @@
 				<Original>CAPTIVE</Original>
 				<German>FESTGENOMMEN</German>
 				<Polish>SCHWYTANY</Polish>
-				<Czech>ZAJETÍ</Czech>
+				<Czech>V ZAJETÍ</Czech>
 				<French>CAPTIF</French>
 				<Chinesesimp>俘虏</Chinesesimp>
 				<Russian>ПЛЕННИК</Russian>
@@ -421,7 +421,7 @@
 				<Original>ACCESSING INVENTORY</Original>
 				<German>ZUGRIFF AUFS INVENTAR</German>
 				<Polish>PATRZENIE DO EKWIPUNKU</Polish>
-				<Czech>PŘÍSTUP K INVENTÁŘI</Czech>
+				<Czech>OTEVŘENÝ INVENTÁŘ</Czech>
 				<French>DANS L'INVENTAIRE</French>
 				<Chinesesimp>使用物品栏</Chinesesimp>
 				<Russian>ДОСТУП К ИНВЕНТАРЮ</Russian>
@@ -430,7 +430,7 @@
 				<Original>COMPROMISED VEHICLE</Original>
 				<German>KOMPROMITTIERTES FAHRZEUG</German>
 				<Polish>POSZUKIWANY POJAZD</Polish>
-				<Czech>OHROŽENÉ VOZIDLO</Czech>
+				<Czech>ODHALENÉ VOZIDLO</Czech>
 				<French>VÉHICULE COMPROMIS</French>
 				<Chinesesimp>已暴露载具</Chinesesimp>
 				<Russian>ТРАНСПОРТ В РОЗЫСКЕ</Russian>
@@ -468,7 +468,7 @@
 				<Original>This list displays all known intel. Click on a row to display only that piece of intel on your map.</Original>
 				<German>Diese Liste zeigt alle bekannten Informationen an. Klick auf eine Zeile, um nur diese Information auf der Karte anzuzeigen</German>
 				<Polish>Ta lista zawiera wszystkie znane dane wywiadowcze. Kliknij wiersz, aby wyświetlić tylko ten element wywiadu na mapie.</Polish>
-				<Czech>Tento seznam zobrazuje všechny známé informace. Kliknutím na řádek zobrazíte pouze tuto informaci na mapě.</Czech>
+				<Czech>Tento seznam zobrazuje všechny známé informace. Kliknutím na řádek zobrazš pouze tuto informaci na mapě.</Czech>
 				<French>Cette liste affiche tous les renseignements connues. Cliquez sur une ligne pour afficher uniquement ce renseignement sur votre carte.</French>
 				<Chinesesimp>该列表列出乐所有已知情报。点击其中一个会让地图上的其它情报隐藏。</Chinesesimp>
 				<Russian>В этом списке отображается вся известная информация. Щелкните строку, чтобы отобразить на карте только эту информацию.</Russian>
@@ -477,7 +477,7 @@
 				<Original>Press to toggle the display of active intel drawn on your map.</Original>
 				<German>Drücke diesen Knopf, um die Anzeige der aktiven Informationen auf der Karte umzuschalten.</German>
 				<Polish>Naciśnij, aby przełączyć wyświetlanie aktywnych danych wywiadowczych narysowanych na mapie.</Polish>
-				<Czech>Stisknutím přepínáte zobrazení aktivních informací nakreslených na mapě.</Czech>
+				<Czech>Stisknutím přepínáš zobrazení aktivních informací nakreslených na mapě.</Czech>
 				<French>Cliquez pour affichager le renseignement comme "actif" et qu'il apparaisse sur votre carte.</French>
 				<Chinesesimp>点击切换地图上有效情报的显示。</Chinesesimp>
 				<Russian>Нажмите, чтобы переключить отображение активной информации на вашей карте.</Russian>
@@ -486,7 +486,7 @@
 				<Original>Press to toggle the display of active intel drawn on your map.</Original>
 				<German>Drücke diesen Knopf, um die Anzeige der geplanten, inaktiven Informationen auf der Karte umzuschalten.</German>
 				<Polish>Naciśnij, aby przełączyć wyświetlanie planowanych, nieaktywnych danych wywiadowczych narysowanych na mapie.</Polish>
-				<Czech>Stisknutím přepínáte zobrazení plánovaných, neaktivních informací nakreslených na mapě.</Czech>
+				<Czech>Stisknutím přepínáš zobrazení plánovaných, neaktivních informací nakreslených na mapě.</Czech>
 				<French>Cliquez pour affichager le renseignement comme "actif" et qu'il apparaisse sur votre carte.</French>
 				<Chinesesimp>点击切换地图上有效情报的显示。</Chinesesimp>
 				<Russian>Нажмите эту кнопку, чтобы переключить отображение запланированной неактивной информации на карте.</Russian>
@@ -495,7 +495,7 @@
 				<Original>Press to toggle the display of old, ended intel drawn on your map.</Original>
 				<German>Drücke diesen Knopf, um die Anzeige von alten, ungültigen Informationen auf der Karte umzuschalten.</German>
 				<Polish>Naciśnij, aby przełączyć wyświetlanie starych, zakończonych danych wywiadowczych narysowanych na mapie.</Polish>
-				<Czech>Stisknutím přepínáte zobrazení starých, ukončených informací nakreslených na mapě.</Czech>
+				<Czech>Stisknutím přepínáš zobrazení starých, ukončených informací nakreslených na mapě.</Czech>
 				<French>Cliquez pour affichager le renseignement comme "terminer" sur votre carte.</French>
 				<Chinesesimp>点击切换地图上已过时情报的显示。</Chinesesimp>
 				<Russian>Нажмите эту кнопку, чтобы переключить отображение старой недействительной информации на карте.</Russian>
@@ -504,8 +504,8 @@
 				<Original>Press to remove red alert icons on locations.</Original>
 				<German>Drücke diesen Knopf, um rote Alarmsymbole an den Standorten zu entfernen.</German>
 				<Polish>Naciśnij, aby usunąć czerwone ikony alertów w lokalizacjach.</Polish>
-				<Czech>Stisknutím tlačítka odeberete červené výstražné ikony na místech.</Czech>
-				<French>Cliquez pour supprimer les icônes d'alerte rouges des différents endroits.</French>
+				<Czech>Stisknutím tlačítka odebereš červené výstražné ikony na místech.</Czech>
+				<French>Cliquez pour supprimer les icônes d'aler rouges des différents endroits.</French>
 				<Chinesesimp>点击移出各个地点的红色警报标志。</Chinesesimp>
 				<Russian>Нажмите, чтобы удалить красные значки тревоги на местах.</Russian>
 			</Key>
@@ -513,8 +513,8 @@
 				<Original>Press to toggle the display of the intel panel. Useful if you want to see the entire map.</Original>
 				<German>Drücke diesen Knopf, um die Anzeige des Informationspanels umzuschalten. Nützlich, um die gesamte Karte zu sehen</German>
 				<Polish>Naciśnij, aby przełączyć wyświetlanie panelu danych wywiadowczych. Przydatne, jeśli chcesz zobaczyć całą mapę.</Polish>
-				<Czech>Stisknutím přepínáte zobrazení panelu Intel. Užitečné, pokud chcete vidět celou mapu.</Czech>
-				<French>Cliquez pour changer l'affichage du panneau des renseignements. Utile si vous voulez voir la carte entièrement.</French>
+				<Czech>Stisknutím přepínáš zobrazení panelu Intel. Užitečné, pokud chceš vidět celou mapu.</Czech>
+				<French>Cliquez pour changer l'affichage du panneau des renseignements. Utile si vous voulez voir la car entièrement.</French>
 				<Chinesesimp>点击切换情报面板的显示。适用于需要浏览全图时。</Chinesesimp>
 				<Russian>Нажмите, чтобы переключить отображение панели информации. Полезно, если вы хотите увидеть всю карту целиком.</Russian>
 			</Key>
@@ -522,7 +522,7 @@
 				<Original>Press to toggle our custom locations being shown on your map. That includes outposts and cities.</Original>
 				<German>Drücke diesen Knopf, um die Anzeige von zusätzlichen Standorten auf der Karte umzuschalten. Dazu gehören Außenposten und Städte.</German>
 				<Polish>Naciśnij, aby przełączyć nasze niestandardowe lokalizacje wyświetlane na mapie. Dotyczy to placówek wojskowych i miast.</Polish>
-				<Czech>Stisknutím přepínáte naše vlastní lokality zobrazené na mapě. To zahrnuje základny a města.</Czech>
+				<Czech>Stisknutím přepínáš naše vlastní lokality zobrazené na mapě. To zahrnuje základny a města.</Czech>
 				<French>Cliquez pour afficher vos emplacements personnalisés sur la carte. Cela comprend les avant-postes et les villes.</French>
 				<Chinesesimp>点击切换地图上自定义地点的显示。这包括前哨和城市。</Chinesesimp>
 				<Russian>Нажмите, чтобы переключить наши пользовательские местоположения, отображаемые на вашей карте. Это включает в себя аванпосты и города.</Russian>
@@ -531,7 +531,7 @@
 				<Original>Press to toggle players being shown on your map.</Original>
 				<German>Drücke diesen Knopf, um die Anzeige von Spielern auf der Karte umzuschalten.</German>
 				<Polish>Naciśnij, aby przełączać wyświetlanie graczy na mapie.</Polish>
-				<Czech>Stisknutím přepínáte hráče zobrazené na mapě.</Czech>
+				<Czech>Stisknutím přepínáš hráče zobrazené na mapě.</Czech>
 				<French>Cliquez pour affichés les joueurs sur la carte.</French>
 				<Chinesesimp>点击切换地图上玩家的显示。</Chinesesimp>
 				<Russian>Нажмите, чтобы переключать игроков, отображаемых на вашей карте.</Russian>
@@ -540,7 +540,7 @@
 				<Original>Press to toggle this setting on or off.</Original>
 				<German>Drücke diesen Knopf, um diese Einstellung umzuschalten.</German>
 				<Polish>Naciśnij, aby włączyć lub wyłączyć to ustawienie.</Polish>
-				<Czech>Stisknutím toto nastavení zapínáte nebo vypnete.</Czech>
+				<Czech>Stisknutím toto nastavení zapínáš nebo vypnete.</Czech>
 				<French>Cliquez pour activer ou désactiver ce paramètre.</French>
 				<Chinesesimp>点击切换设定的开关。</Chinesesimp>
 				<Russian>Нажмите, чтобы включить или выключить эту настройку.</Russian>
@@ -585,7 +585,7 @@
 				<Original>Double click to center on attack. Use Shift + LMB or Ctrl + LMB to multiselect items.</Original>
 				<German>Doppelklick um auf den Angriff zu zentrieren. Verwende Umschalt + LMB oder Strg + LMB um mehrere Elemente auszuwählen.</German>
 				<Polish>Kliknij dwukrotnie, aby wyśrodkować na danej akcji. Użyj Shift + LMB lub Ctrl + LMB, aby zaznaczyć wiele pozycji.</Polish>
-				<Czech>Dvojitým kliknutím na střed útoku. K vícenásobnému výběru položek použijte Shift + LMB nebo Ctrl + LMB.</Czech>
+				<Czech>Dvojitým kliknutím na střed útoku. K vícenásobnému výběru položek použij Shift + LMB nebo Ctrl + LMB.</Czech>
 				<French>Double-cliquez pour centrer sur l'attaque. Utilisez Maj + clique gauche ou Ctrl + clique gauche pour sélectionner plusieurs éléments.</French>
 				<Chinesesimp>双击居中到攻击点。用Shift+左键或Ctrl+左键进行多选。</Chinesesimp>
 				<Russian>Дважды щелкните, чтобы сосредоточиться на точке атаки.Используйте Shift+ЛКМ или Ctrl+ЛКМ, чтобы выбрать несколько.</Russian>
@@ -605,7 +605,7 @@
 				<Original>Select a single intel item to view a detailed description.</Original>
 				<German>Wähle ein einzelnes Element aus, um eine detaillierte Beschreibung anzuzeigen.</German>
 				<Polish>Wybierz pojedynczy element wywiadu, aby wyświetlić szczegółowy opis.</Polish>
-				<Czech>Chcete-li zobrazit podrobný popis, vyberte jednu položku intelu.</Czech>
+				<Czech>Chceš-li zobrazit podrobný popis, vyber jednu položku intelu.</Czech>
 				<French>Sélectionnez un seul élément de renseignement pour afficher une description détaillée.</French>
 				<Chinesesimp>选择一项情报检视具体介绍。</Chinesesimp>
 				<Russian>Выберите один элемент информации, чтобы просмотреть подробное описание.</Russian>
@@ -614,7 +614,7 @@
 				<Original>The enemy commander has detected activity in this area and is dispatching an attack. Hold your ground and defeat enough attacks to stop the enemy from sending more.</Original>
 				<German>Der feindliche Kommandeur hat Aktivität in diesem Gebiet festgestellt und leitet einen Angriff ein. Halten Sie die Stellung und schlagen Sie genug Angriffe zurück, um den Feind daran zu hindern, weitere zu entsenden.</German>
 				<Polish>Dowódca wroga wykrył aktywność w tym obszarze i atakuje tę pozycję. Utrzymaj się i pokonaj wystarczającą liczbę ataków, aby powstrzymać wroga przed wysyłaniem kolejnych.</Polish>
-				<Czech>Nepřátelský velitel detekoval aktivitu v této oblasti a vysílá útok. Držte si pozici a porazit dostatek útoků zastavit nepřítele od odeslání více.</Czech>
+				<Czech>Nepřátelský velitel detekoval aktivitu v této oblasti a vysílá útok. Držte si pozici a odrazte několik útoků, aby jste odradili nepřítele od poslání dalších útoků.</Czech>
 				<French>Le Commandant ennemi a détecté une activité dans cette zone et lance une attaque. Tenez bon et repoussez suffisamment d'attaques ennemi pour empêcher qu'il n'en arrive pas davantage.</French>
 				<Chinesesimp>敌军指挥官察觉到该区域的活动并派遣了部队。守住这里并通过挫败敌人的进攻来制止敌人的进一步增援。</Chinesesimp>
 				<Russian>Командир противника обнаружил активность в этом районе и начинает атаку. Удерживайте свои позиции и отбейте достаточно атак, чтобы противник не послал больше.</Russian>
@@ -632,7 +632,7 @@
 				<Original>Enemy troops are being sent to this location to reinforce it.</Original>
 				<German>Zur Verstärkung werden feindliche Truppen an diesen Ort geschickt.</German>
 				<Polish>Do tego miejsca wysyłane są wrogie jednostki, aby je wzmocnić.</Polish>
-				<Czech>Na toto místo jsou vysláni nepřátelské jednotky, aby ho posílili.</Czech>
+				<Czech>Na toto místo jsou vysláni nepřátelské jednotky, aby jej posílili.</Czech>
 				<French>Des troupes de renfort ennemie sont envoyées à cet endroit.</French>
 				<Chinesesimp>敌军增援部队正派往此处。</Chinesesimp>
 				<Russian>К этому месту отправляются вражеские войска, чтобы укрепить его.</Russian>
@@ -641,7 +641,7 @@
 				<Original>A commanding officer is being sent to this location. If he arrives, he will take command and enable attacks from his destination. Intercept him or kill him at his destination – your choice.</Original>
 				<German>Ein kommandierender Offizier wird an diesen Standort entsandt. Wenn er eintrifft, wird er das Kommando übernehmen und Angriffe von seinem Zielort aus ermöglichen. Fangen Sie ihn ab oder töten Sie ihn an seinem Zielort - Ihre Wahl.</German>
 				<Polish>Dowódca jest wysyłany do tej lokalizacji. Jeśli przybędzie, przejmie dowodzenie i umożliwi ataki z miejsca docelowego. Przechwyć go lub zabij w miejscu docelowym - twój wybór.</Polish>
-				<Czech>Na toto místo je vyslán velící důstojník. Pokud dorazí, převezme velení a umožní útoky z cíle. Zachytit ho, nebo ho zabít v jeho cíli - vaše volba.</Czech>
+				<Czech>Na toto místo je vyslán velící důstojník. Pokud dorazí, převezme velení a umožní útoky z cíle. Zachyťte nebo ho zabte v jeho cíli - vaše volba.</Czech>
 				<French>Un Commandant est envoyé à cet endroit. S'il arrive, il prendra le contrôle et ordonnera des attaques depuis cette zone. Interceptez-le ou tuez-le avant qu'il arrive à destination - Faites un choix !</French>
 				<Chinesesimp>一名指挥官正在前往此处。一旦抵达他便能接过指挥权并从他所处位置发动进攻。截杀他或在目的地干掉他——随你们喜好。</Chinesesimp>
 				<Russian>В это место направляется командир. Если он прибудет, он примет командование и позволит атаковать из пункта назначения. Перехватить его или убить в месте назначения – ваш выбор.</Russian>
@@ -659,7 +659,7 @@
 				<Original>The enemy is resupplying a location with ammunition. Intercept the transport, or attack the location they are headed to once they have arrived, and capture some ammunition.</Original>
 				<German>Der Feind versorgt einen Ort mit Munition. Fangen Sie den Transport ab oder greifen Sie den Ort an, zu dem er unterwegs ist.</German>
 				<Polish>Wróg zaopatruje miejsce w amunicję. Przechwyć transport lub zaatakuj miejsce, do którego zmierzają po przybyciu i zdobądź trochę amunicji.</Polish>
-				<Czech>Nepřítel zásobuje místo municí. Zachyťte transport nebo zaútočte na místo, kam míří, jakmile dorazí, a zajměte nějakou munici.</Czech>
+				<Czech>Nepřítel zásobuje místo municí. Zachyťte transport nebo zaútočte na místo, kam míří, jakmile dorazí, a zajmi nějakou munici.</Czech>
 				<French>L'ennemi réapprovisionne un emplacement en munitions par convoi. Attaquez-le à l'endroit où il se dirige ou avant qu'il n'y arrive et emparez-vous des munitions.</French>
 				<Chinesesimp>敌军正在向此处派发弹药物资。拦截运输车队或在他们抵达时目的地时发动进攻，把弹药物资缴获回来。</Chinesesimp>
 				<Russian>Противник пополняет локацию боеприпасами. Перехватите транспорт или атакуйте место, куда они направляются, когда они прибудут, и захватите боеприпасы.</Russian>
@@ -686,7 +686,7 @@
 				<Original>The enemy is transporting a cache of explosives. Intercept the transport, or attack the location they are headed to once they have arrived, to capture some explosives. Be careful not to blow it up!</Original>
 				<German>Der Feind versorgt einen Ort mit einer Ladung Sprengstoff. Fangen Sie den Transport ab oder greifen Sie den Ort an, zu dem er unterwegs ist.</German>
 				<Polish>Wróg transportuje materiały wybuchowe. Przechwyć transport lub zaatakuj miejsce, do którego zmierzają po przybyciu, aby schwytać niektóre materiały wybuchowe. Uważaj, aby go nie wysadzić!</Polish>
-				<Czech>Nepřítel převáží skrýš výbušnin. Zachyťte transport nebo zaútočte na místo, kam míří, jakmile dorazí, aby zachytili nějaké výbušniny. Dávejte pozor, abyste to vyhodit do povětří!</Czech>
+				<Czech>Nepřítel převáží skrýš výbušnin. Zachyťte transport nebo zaútočte na místo, kam míří, jakmile dorazí, aby zachytili nějaké výbušniny. Dávej pozor, abyste to vyhodit do povětří!</Czech>
 				<French>L'ennemi réapprovisionne un emplacement en caisses d'explosifs par convoi. Attaquez-le à l'endroit où il se dirige ou avant qu'il n'y arrive et emparez-vous des caisses d'explosifs.</French>
 				<Chinesesimp>敌军正在运送一批爆炸物。拦截运输车队或在他们抵达时目的地时发动进攻，把爆炸物缴获回来。千万小心别弄炸了！</Chinesesimp>
 				<Russian>Противник перевозит тайник со взрывчаткой. Перехватите транспорт или атакуйте то место, куда они направляются, чтобы захватить взрывчатку. Будьте осторожны, не взорвите его!</Russian>
@@ -701,7 +701,7 @@
 				<Original>You have reached the savegame limit of 5 savegames. Delete savegames to continue.</Original>
 				<German>Das Limit von 5 Spielständen wurde erreicht. Lösche alte Spielstände, um fortzufahren.</German>
 				<Polish>Osiągnąłeś limit 5 zapisanych gier. Usuń zapisywane gry, aby kontynuować.</Polish>
-				<Czech>Dosáhli jste limitu savegame 5 savegames. Chcete-li pokračovat, odstraňte uložené hry.</Czech>
+				<Czech>Dosáhli jste limitu 5 uložených her. Chcete-li pokračovat, odstraňte uložené hry.</Czech>
 				<French>Vous avez atteint la limite de 5 sauvegardes autorisé. Supprimez-en pour continuer.</French>
 				<Chinesesimp>你已达到游戏存档上限（5个）。删除存档后继续。</Chinesesimp>
 				<Russian>Вы достигли ограничения в 5 сохранений. Чтобы продолжить, удалите сохранения.</Russian>
@@ -721,7 +721,7 @@
 				<Original>ERROR: Faction file contains errors. Check your .RPT file for more info.</Original>
 				<German>FEHLER: Fraktions-Datei enthält Fehler. Überprüfe die .RPT-Datei für weitere Informationen.</German>
 				<Polish>BŁĄD: plik frakcji zawiera błędy. Sprawdź plik .RPT, aby uzyskać więcej informacji.</Polish>
-				<Czech>Chyba: Soubor frakce obsahuje chyby. Zkontrolujte. RPT soubor pro více informací.</Czech>
+				<Czech>Chyba: Soubor frakce obsahuje chyby. Zkontroluj. RPT soubor pro více informací.</Czech>
 				<French>ERREUR: le fichier des Factions contient des erreurs. Vérifiez votre fichier .RPT pour plus d'informations.</French>
 				<Chinesesimp>错误：阵营文件包含错误。检查你的.RPT文件获取更多信息。</Chinesesimp>
 				<Russian>ОШИБКА: файл фракции содержит ошибки. Проверьте свои .RPT-файл для получения дополнительной информации.</Russian>
@@ -765,7 +765,7 @@
 				<Original>Auto Load</Original>
 				<German>Automatisches Laden</German>
 				<Polish>Auto Ładowanie</Polish>
-				<Czech>Automatické načtení</Czech>
+				<Czech>Automatické načítání</Czech>
 				<French>Chargement automatique</French>
 				<Chinesesimp>自动加载</Chinesesimp>
 				<Russian>АвтоЗагрузка</Russian>
@@ -783,7 +783,7 @@
 				<Original>Most recent save will be loaded automatically on mission start</Original>
 				<German>Der letzte Spielstand wird automatisch beim Start der Mission geladen</German>
 				<Polish>Ostatni zapis zostanie załadowane automatycznie na początku misji</Polish>
-				<Czech>Poslední uložení se automaticky načte při zahájení mise</Czech>
+				<Czech>Poslední uložená hra se automaticky načte při zahájení mise</Czech>
 				<French>La sauvegarde la plus récente sera chargée automatiquement au début de la mission</French>
 				<Chinesesimp>最新的存档将会在任务开始时自动加载</Chinesesimp>
 				<Russian>Самое последнее сохранение будет загружено автоматически при запуске миссии.</Russian>
@@ -821,7 +821,7 @@
 				<Original>On empty</Original>
 				<German>Im Leerzustand</German>
 				<Polish>Gdy pusty</Polish>
-				<Czech>Na prázdné</Czech>
+				<Czech>Při prázdném serveru</Czech>
 				<French>Si serveur vide</French>
 				<Chinesesimp>空置时</Chinesesimp>
 				<Russian>На пустом</Russian>
@@ -839,7 +839,7 @@
 				<Original>Interval in hours (0 = disabled)</Original>
 				<German>Interval in Stunden (0 = deaktiviert)</German>
 				<Polish>Interwał w godzinach (0 = wyłączony)</Polish>
-				<Czech>Interval v hodinách (0 = zakázán)</Czech>
+				<Czech>Interval v hodinách (0 = zakázáno)</Czech>
 				<French>Intervalle en heures (0 = désactivé)</French>
 				<Chinesesimp>间隔小时（0 = 关闭）</Chinesesimp>
 				<Russian>Интервал в часах (0 = отключено)</Russian>
@@ -866,7 +866,7 @@
 				<Original>When enabled will allow autosaving when enemies are within 250m of a player, otherwise it will be delayed by up to 30 minutes after the scheduled time</Original>
 				<German>Wenn diese Option aktiviert ist, ist die automatische Speicherung möglich, wenn sich Feinde im Umkreis von 250 m von einem Spieler befinden, andernfalls wird sie um bis zu 30 Minuten nach der geplanten Zeit verzögert.</German>
 				<Polish>Włączenie tej opcji pozwoli na automatyczne zapisywanie, gdy wrogowie znajdą się w odległości 250m od gracza, w przeciwnym razie zapis zostanie opóźniony o 30 minut</Polish>
-				<Czech>Pokud je povoleno, umožní automatické úspory, když jsou nepřátelé do 250 m od hráče, jinak bude zpožděno až o 30 minut po plánovaném čase</Czech>
+				<Czech>Pokud je povoleno, umožní automatické ukládání, když jsou nepřátelé do 250 m od hráče, jinak bude zpožděno až o 30 minut po plánovaném čase</Czech>
 				<French>Lorsqu'elle est activée, la sauvegarde automatique s'effectuera si les ennemis se trouvent à moins de 250 m d'un joueur. Sinon elle sera retardée de 30 minutes.</French>
 				<Chinesesimp>开启后将会允许敌人处于玩家周围250米以内时进行自动保存，否则保存功能将会延后至多30分钟</Chinesesimp>
 				<Russian>Если этот параметр включен, автосохранение разрешено, когда враги находятся в пределах 250 м от игрока, в противном случае оно будет отложено на 30 минут после запланированного времени.</Russian>
@@ -893,7 +893,7 @@
 			</Key>
 			<Key ID="STR_Vindicta_Settings_Server_Suspend_Tooltip">
 				<Original>Time will be frozen when no players are connected to the server (applies to dedicated servers only)</Original>
-				<German>Die Zeit wird eingefroren, wenn keine Spieler mit dem Server verbunden sind (gilt nur für dedizierte Server)</German>
+				<German>Die Zeit wird eingefroren, wenn keine Spieler mit dem Server verbunden sind (gilt nur für dedizier Server)</German>
 				<Polish>Czas zostanie zamrożony, gdy żaden z graczy nie zostanie podłączony do serwera (dotyczy tylko serwerów dedykowanych)</Polish>
 				<Czech>Čas bude zmrazen, pokud nejsou k serveru připojeni žádní hráči (platí pouze pro dedikované servery)</Czech>
 				<French>Suspendre lorsqu'il est vide</French>
@@ -935,7 +935,7 @@
 				<Original>Difficulty</Original>
 				<German>Schwierigkeit</German>
 				<Polish>Poziom Trudności</Polish>
-				<Czech>Obtížnosti</Czech>
+				<Czech>Obtížnost</Czech>
 				<French>Difficulté</French>
 				<Chinesesimp>难度</Chinesesimp>
 				<Russian>Сложность</Russian>
@@ -951,7 +951,7 @@
 			</Key>
 			<Key ID="STR_Vindicta_Settings_Diff_Global_Tooltip">
 				<Original>Affects enemy attack strength, frequency of external reinforcements.</Original>
-				<Czech>Ovlivňuje sílu nepřátelského útoku, frekvenci vnějších posil.</Czech>
+				<Czech>Ovlivňuje sílu nepřátelského útoku, frekvenci externích posil.</Czech>
 				<Chinesesimp>影响敌军的进攻强度、外来增援的频率。</Chinesesimp>
 				<Russian>Влияет на силу атаки противника, частоту внешних подкреплений.</Russian>
 			</Key>
@@ -971,7 +971,7 @@
 
 			<Key ID="STR_Vindicta_Settings_Diff_LootAmount">
 				<Original>Military Loot Amount</Original>
-				<Czech>vojenské kořisti</Czech>
+				<Czech>Vojenské kořisti</Czech>
 				<Chinesesimp>军用战利品数量</Chinesesimp>
 				<Russian>Количество Военных Трофеев</Russian>
 			</Key>
@@ -984,13 +984,13 @@
 
 			<Key ID="STR_Vindicta_Settings_Diff_AllowPlayerMarkers">
 				<Original>Allow Player Map Markers</Original>
-				<Czech>Povolit značky mapy hráče</Czech>
+				<Czech>Povolit značky na mapě od hráčů</Czech>
 				<Chinesesimp>允许玩家地图标记</Chinesesimp>
 				<Russian>Разрешить Маркеры на Карте Игрока</Russian>
 			</Key>
 			<Key ID="STR_Vindicta_Settings_Diff_AllowPlayerMarkers_Tooltip">
 				<Original>Allows map markers of players shown on the map.</Original>
-				<Czech>mapové značky hráčů zobrazené na mapě.</Czech>
+				<Czech>Mapové značky hráčů zobrazené na mapě.</Czech>
 				<Chinesesimp>允许地图上显示玩家标记。</Chinesesimp>
 				<Russian>Позволяет отображать маркеры игроков на карте.</Russian>
 			</Key>
@@ -1101,7 +1101,7 @@
 				<Original>AI aiming accuracy</Original>
 				<German>KI-Zielgenauigkeit</German>
 				<Polish>Dokładność celowania AI</Polish>
-				<Czech>AI přesnost zaměření</Czech>
+				<Czech>AI přesnost míření</Czech>
 				<French>Précision de visée de l'IA</French>
 				<Chinesesimp>AI瞄准精度</Chinesesimp>
 				<Russian>Точность прицеливания ИИ</Russian>
@@ -1291,7 +1291,7 @@
 				<Original>Will autoload in %1s, login as admin to abort</Original>
 				<German>Wird automtisch in %1s geladen, zum Abbrechen als Admin anmelden</German>
 				<Polish>Wczyta się automatycznie za %1s, zaloguj się jako administrator, aby przerwać</Polish>
-				<Czech>Bude autoload v %1s, přihlásit se jako správce přerušit</Czech>
+				<Czech>Bude autoload za %1s, přihlaš se jako správce pro přerušení</Czech>
 				<French>Se chargera automatiquement dans %1s, connectez-vous en tant qu'administrateur pour abandonner</French>
 				<Chinesesimp>将于%1秒后自动加载，以管理员身份登陆来终止</Chinesesimp>
 				<Russian>Будет автоматически загружаться в %1 с, войдите как администратор для отмены</Russian>
@@ -1319,7 +1319,7 @@
 			</Key>
 			<Key ID="STR_CANT_TALK_BUSY_2">
 				<Original>Sorry I can't talk now.</Original>
-				<Czech>Promiň, že teď nemůžu mluvit.</Czech>
+				<Czech>Promiň, teď nemůžu mluvit.</Czech>
 				<Chinesesimp>抱歉我现在和你聊天。</Chinesesimp>
 				<Russian>Извини, я не могу сейчас говорить.</Russian>
 			</Key>
@@ -1369,7 +1369,7 @@
 			</Key>
 			<Key ID="STR_CANT_TALK_ANYMORE_3">
 				<Original>Sorry I can't talk any more.</Original>
-				<Czech>Promiň, že už nemůžu mluvit.</Czech>
+				<Czech>Promiň, už nemůžu mluvit.</Czech>
 				<Chinesesimp>抱歉我不能继续聊了。</Chinesesimp>
 				<Russian>Извини, я больше не могу говорить.</Russian>
 			</Key>
@@ -1413,13 +1413,13 @@
 		<Container name="CantTalkScared">
 			<Key ID="STR_CANT_TALK_Scared_1">
 				<Original>Don't hurt me!</Original>
-				<Czech>Neubližujte mi!</Czech>
+				<Czech>Neubližuj mi!</Czech>
 				<Chinesesimp>别伤害我！</Chinesesimp>
 				<Russian>Не делай мне больно!</Russian>
 			</Key>
 			<Key ID="STR_CANT_TALK_Scared_2">
 				<Original>Please don't hurt me!</Original>
-				<Czech>Prosím, neubližujte mi!</Czech>
+				<Czech>Prosím, neubližuj mi!</Czech>
 				<Chinesesimp>请别伤害我！</Chinesesimp>
 				<Russian>Пожалуйста, не делай мне больно!</Russian>
 			</Key>
@@ -1449,7 +1449,7 @@
 			</Key>
 			<Key ID="STR_CANT_TALK_Scared_7">
 				<Original>I am not armed! Don't shoot!</Original>
-				<Czech>Nejsem ozbrojen! Nestřílejte!</Czech>
+				<Czech>Nejsem ozbrojen! Nestřílej!</Czech>
 				<Chinesesimp>别打了！我是老乡！</Chinesesimp>
 				<Russian>Я не вооружен! Не стреляйте!</Russian>
 			</Key>
@@ -1541,13 +1541,13 @@
 			</Key>
 			<Key ID="STR_C_PANIC_15">
 				<Original>Someone, call the police!</Original>
-				<Czech>Zavolejte někdo policii!</Czech>
+				<Czech>Zavolej někdo policii!</Czech>
 				<Chinesesimp>谁去把警察叫来啊！</Chinesesimp>
 				<Russian>Кто-нибудь, вызовите полицию!</Russian>
 			</Key>
 			<Key ID="STR_C_PANIC_16">
 				<Original>Someone, call the cops!</Original>
-				<Czech>Zavolejte někdo poldy!</Czech>
+				<Czech>Zavolej někdo poldy!</Czech>
 				<Chinesesimp>谁去把条子叫来啊！</Chinesesimp>
 				<Russian>Кто-нибудь, вызовите копов!</Russian>
 			</Key>
@@ -1585,13 +1585,13 @@
 			</Key>
 			<Key ID="STR_START_DIALOGUE_3">
 				<Original>Sir, can you talk now?</Original>
-				<Czech>Pane, můžete mluvit?</Czech>
+				<Czech>Pane, můžeš mluvit?</Czech>
 				<Chinesesimp>先生，你现在方便谈话吗？</Chinesesimp>
 				<Russian>Сэр, теперь вы можете поговорить?</Russian>
 			</Key>
 			<Key ID="STR_START_DIALOGUE_4">
 				<Original>Excuse me, do you have a moment to talk?</Original>
-				<Czech>Promiňte, máte chvilku?</Czech>
+				<Czech>Promiňte, máš chvilku?</Czech>
 				<Chinesesimp>打扰一下，你能抽出点时间来谈话吗？</Chinesesimp>
 				<Russian>Извините, у вас есть минутка поговорить?</Russian>
 			</Key>
@@ -1765,13 +1765,13 @@
 		<Container name="PlayerAskMilitaryLocations">
 			<Key ID="STR_MILITARY_LOCATIONS_1">
 				<Original>Do you know any military outposts in the area?</Original>
-				<Czech>Znáte nějaké vojenské základny v této oblasti?</Czech>
+				<Czech>Znáš nějaké vojenské základny v této oblasti?</Czech>
 				<Chinesesimp>你知道这附近哪里有军事哨所吗？</Chinesesimp>
 				<Russian>Вы знаете какие-нибудь военные аванпосты в этом районе?</Russian>
 			</Key>
 			<Key ID="STR_MILITARY_LOCATIONS_2">
 				<Original>Do you know of any military places around here?</Original>
-				<Czech>Nevíte o nějakých vojenských místech?</Czech>
+				<Czech>Nevš o nějakých vojenských místech?</Czech>
 				<Chinesesimp>这附近有任何军事禁区吗？</Chinesesimp>
 				<Russian>Вы знаете какие-нибудь военные места поблизости?</Russian>
 			</Key>
@@ -1789,7 +1789,7 @@
 			</Key>
 			<Key ID="STR_MILITARY_LOCATIONS_5">
 				<Original>Do you know any military locations around here?</Original>
-				<Czech>Znáte tu nějaké vojenské lokace?</Czech>
+				<Czech>Znáš tu nějaké vojenské lokace?</Czech>
 				<Chinesesimp>你了解周边的军事区域吗？</Chinesesimp>
 				<Russian>Вы знаете здесь какие-нибудь военные объекты?</Russian>
 			</Key>
@@ -1845,7 +1845,7 @@
 			</Key>
 			<Key ID="STR_INCITE_9">
 				<Original>The military are so corrupt! There is no other solution to this any more!</Original>
-				<Czech>Armáda je tak zkorumpovaná! Neexistuje žádné jiné řešení, nic víc!</Czech>
+				<Czech>Armáda je tak zkorumpovaná! Neexistuje tu už žádné jiné řešení!</Czech>
 				<Chinesesimp>军队太腐败了！我们别无选择！</Chinesesimp>
 				<Russian>Военные настолько обнаглели! Другого решения этой проблемы больше нет!</Russian>
 			</Key>
@@ -1901,7 +1901,7 @@
 			</Key>
 			<Key ID="STR_C_INCITE_RESPONSE_9">
 				<Original>You're straight up spitting facts there mate! It's about time somebody puts a stop to that, and I for one am up for it!</Original>
-				<Czech>Jsi na řadě kámo! Je na čase, aby to někdo zastavil, a já jsem sám!</Czech>
+				<Czech>Jsi na řadě kámo! Je na čase, aby to někdo zastavil, a já jsem pro!</Czech>
 				<Chinesesimp>你说的可太对了老鸽！必须有人制止这一切，我报名！</Chinesesimp>
 				<Russian>Ты прямо плюешься фактами, приятель! Самое время кому-нибудь положить этому конец, и я, например, готов!</Russian>
 			</Key>
@@ -1931,7 +1931,7 @@
 			</Key>
 			<Key ID="STR_C_INCITE_RESPONSE_14">
 				<Original>The less control they have, the better! Count me in!</Original>
-				<Czech>Čím menší kontrolu mají, tím lépe! Počítej te se mnou!</Czech>
+				<Czech>Čím menší kontrolu mají, tím lépe! Počšj se mnou!</Czech>
 				<Chinesesimp>他们管控的越少越好！算我一个！</Chinesesimp>
 				<Russian>Чем меньше у них контроля, тем лучше! Рассчитывайте на меня!</Russian>
 			</Key>
@@ -1939,13 +1939,13 @@
 		<Container name="Scare">
 			<Key ID="STR_SCARE_1">
 				<Original>Get out of here, quick!</Original>
-				<Czech>Vypadněte odsud, rychle!</Czech>
+				<Czech>Vypadni odsud, rychle!</Czech>
 				<Chinesesimp>离开这里，快！</Chinesesimp>
 				<Russian>Убирайся отсюда быстро!</Russian>
 			</Key>
 			<Key ID="STR_SCARE_2">
 				<Original>Something bad is going to happen here. Better move away!</Original>
-				<Czech>Stane se tu něco zlého. Radši se odstěhujte!</Czech>
+				<Czech>Stane se tu něco zlého. Radši se odstěhuj!</Czech>
 				<Chinesesimp>这里要整个大新闻。最好赶紧跑！</Chinesesimp>
 				<Russian>Здесь должно произойти что-то плохое. Лучше отойди!</Russian>
 			</Key>
@@ -1969,7 +1969,7 @@
 			</Key>
 			<Key ID="STR_SCARE_6">
 				<Original>Move out of here! This place is not safe!</Original>
-				<Czech>Odstěhujte se odsud! Tohle místo není bezpečné!</Czech>
+				<Czech>Odstěhuj se odsud! Tohle místo není bezpečné!</Czech>
 				<Chinesesimp>开离开这儿！这里不安全！</Chinesesimp>
 				<Russian>Убирайся отсюда! Это место небезопасно!</Russian>
 			</Key>
@@ -1977,7 +1977,7 @@
 		<Container name="Intel">
 			<Key ID="STR_INTEL_1">
 				<Original>Do you know if there will be any military maneuvers nearby?</Original>
-				<Czech>Nevíte, jestli v okolí jsou nějaké vojenské manévry?</Czech>
+				<Czech>Nevš, jestli v okolí jsou nějaké vojenské manévry?</Czech>
 				<Chinesesimp>你知道这附近的军事动向吗？</Chinesesimp>
 				<Russian>Вы не знаете, будут ли поблизости военные маневры?</Russian>
 			</Key>
@@ -1997,13 +1997,13 @@
 		<Container name="AskHelp">
 			<Key ID="STR_ASK_HELP_1">
 				<Original>The resistence needs your help! Do you have any building supplies?</Original>
-				<Czech>Odboj potřebuje vaši pomoc! Máte stavební materiály?</Czech>
+				<Czech>Odboj potřebuje vaši pomoc! Máš stavební materiály?</Czech>
 				<Chinesesimp>抵抗组织需要你的帮助！你有建筑物资吗？</Chinesesimp>
 				<Russian>Сопротивлению нужна ваша помощь! У вас есть строительные материалы?</Russian>
 			</Key>
 			<Key ID="STR_ASK_HELP_2">
 				<Original>Listen, the resistence needs some building supplies, do you have any?</Original>
-				<Czech>Podívejte, odboj potřebuje stavební materiály, máte je?</Czech>
+				<Czech>Podívej, odboj potřebuje stavební materiály, máš je?</Czech>
 				<Chinesesimp>听着，抵抗组织需要一些建筑物资，你有吗？</Chinesesimp>
 				<Russian>Слушай, Сопротивлению нужны строительные материалы, у тебя есть?</Russian>
 			</Key>
@@ -2017,7 +2017,7 @@
 			</Key>
 			<Key ID="STR_AGREE_HELP_2">
 				<Original>Take these construction supplies, that's all I can help you with.</Original>
-				<Czech>Vezměte si tyhle stavební suroviny, s tím vám můžu pomoct.</Czech>
+				<Czech>Vezmi si tyhle stavební suroviny, s tím vám můžu pomoct.</Czech>
 				<Chinesesimp>拿上这些建材吧，我只能帮你到这了。</Chinesesimp>
 				<Russian>Возьмите эти строительные материалы, это все, чем я могу вам помочь.</Russian>
 			</Key>
@@ -2119,7 +2119,7 @@
 			</Key>
 			<Key ID="STR_NODE_C_ASK_TIME_NO_2">
 				<Original>Don't you have a phone?</Original>
-				<Czech>Nemáte telefon?</Czech>
+				<Czech>Nemáš telefon?</Czech>
 				<Chinesesimp>你没手机吗？</Chinesesimp>
 				<Russian>У тебя что, нет телефона?</Russian>
 			</Key>
@@ -2175,7 +2175,7 @@
 			</Key>
 			<Key ID="STR_NODE_C_GATHER_2">
 				<Original>Give me a second...</Original>
-				<Czech>Dejte mi chvilku...</Czech>
+				<Czech>Dej mi chvilku...</Czech>
 				<Chinesesimp>等一下啊...</Chinesesimp>
 				<Russian>Дай мне секунду...</Russian>
 			</Key>
@@ -2199,7 +2199,7 @@
 			</Key>
 			<Key ID="STR_NODE_DIR_N">
 				<Original>north</Original>
-				<Czech>Severně</Czech>
+				<Czech>severně</Czech>
 				<Chinesesimp>北方</Chinesesimp>
 				<Russian>к северу</Russian>
 			</Key>
@@ -2211,25 +2211,25 @@
 			</Key>
 			<Key ID="STR_NODE_DIR_E">
 				<Original>east</Original>
-				<Czech>Východně</Czech>
+				<Czech>východně</Czech>
 				<Chinesesimp>东方</Chinesesimp>
 				<Russian>восток</Russian>
 			</Key>
 			<Key ID="STR_NODE_DIR_SE">
 				<Original>south-east</Original>
-				<Czech>jihovýchod</Czech>
+				<Czech>jihovýchodně</Czech>
 				<Chinesesimp>东南方</Chinesesimp>
 				<Russian>юго-восток</Russian>
 			</Key>
 			<Key ID="STR_NODE_DIR_S">
 				<Original>south</Original>
-				<Czech>Jižně</Czech>
+				<Czech>jižně</Czech>
 				<Chinesesimp>南方</Chinesesimp>
 				<Russian>юг</Russian>
 			</Key>
 			<Key ID="STR_NODE_DIR_SW">
 				<Original>south-west</Original>
-				<Czech>Jihozápadní</Czech>
+				<Czech>jihozápadně</Czech>
 				<Chinesesimp>西南方</Chinesesimp>
 				<Russian>юго-запад</Russian>
 			</Key>
@@ -2241,7 +2241,7 @@
 			</Key>
 			<Key ID="STR_NODE_DIR_NW">
 				<Original>north-west</Original>
-				<Czech>Severozápadně</Czech>
+				<Czech>severozápadně</Czech>
 				<Chinesesimp>西北方</Chinesesimp>
 				<Russian>северо-запад</Russian>
 			</Key>
@@ -2259,19 +2259,19 @@
 			</Key>
 			<Key ID="STR_NODE_L400_3">
 				<Original>right over here.</Original>
-				<Czech>Přímo tady.</Czech>
+				<Czech>přímo tady.</Czech>
 				<Chinesesimp>这里。</Chinesesimp>
 				<Russian>прямо здесь.</Russian>
 			</Key>
 			<Key ID="STR_NODE_L400_4">
 				<Original>five-minute walk from here.</Original>
-				<Czech>Pět minut chůze odtud.</Czech>
+				<Czech>pět minut chůze odtud.</Czech>
 				<Chinesesimp>走路5分钟就到。</Chinesesimp>
 				<Russian>в пяти минутах ходьбы отсюда.</Russian>
 			</Key>
 			<Key ID="STR_NODE_L1000_1">
 				<Original>not too far away from here.</Original>
-				<Czech>Není to moc daleko odsud.</Czech>
+				<Czech>není to moc daleko odsud.</Czech>
 				<Chinesesimp>离这儿不太远。</Chinesesimp>
 				<Russian>не так далеко отсюда.</Russian>
 			</Key>
@@ -2319,19 +2319,19 @@
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_1">
 				<Original>There is a </Original>
-				<Czech>K dispozici</Czech>
+				<Czech>Tady je</Czech>
 				<Chinesesimp>那里有</Chinesesimp>
 				<Russian>Eсть</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_2">
 				<Original>I know about a</Original>
-				<Czech>Vím</Czech>
+				<Czech>Vím o</Czech>
 				<Chinesesimp>我知道有</Chinesesimp>
 				<Russian>Я знаю о</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_3">
 				<Original>I think there is a</Original>
-				<Czech>Myslím, že existuje</Czech>
+				<Czech>Myslím, že tady je</Czech>
 				<Chinesesimp>我觉得那里有</Chinesesimp>
 				<Russian>Я думаю есть</Russian>
 			</Key>
@@ -2349,13 +2349,13 @@
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_6">
 				<Original>People are nervous about a</Original>
-				<Czech>Lidé jsou nervózní</Czech>
+				<Czech>Lidé jsou nervózní z</Czech>
 				<Chinesesimp>大家都谨慎关注着</Chinesesimp>
 				<Russian>Люди нервничают из-за</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_7">
 				<Original>People are talking about a</Original>
-				<Czech>Lidé mluví</Czech>
+				<Czech>Lidé mluví o</Czech>
 				<Chinesesimp>大家议论着</Chinesesimp>
 				<Russian>Люди говорят о</Russian>
 			</Key>
@@ -2367,43 +2367,43 @@
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_9">
 				<Original>Not sure about the coordinates, there is a</Original>
-				<Czech>Nejste si jisti souřadnicemi, je zde</Czech>
+				<Czech>Nejsem si jistý souřadnicemi, tady je</Czech>
 				<Chinesesimp>不确定具体位置，但有</Chinesesimp>
 				<Russian>Не уверен насчет координат, есть</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_10">
 				<Original>A friend said he heard from somebody about a</Original>
-				<Czech>Přítel řekl, že slyšel od někoho</Czech>
+				<Czech>Přítel slyšel od někoho o</Czech>
 				<Chinesesimp>我的朋友说他听别人说有</Chinesesimp>
 				<Russian>Друг сказал, что слышал от кого-то о</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_11">
 				<Original>I heard some guys talk about a</Original>
-				<Czech>Slyšel jsem, jak někteří chlapi mluví</Czech>
+				<Czech>Slyšel jsem, jak někteří chlapi mluví o</Czech>
 				<Chinesesimp>我听到有人议论着</Chinesesimp>
 				<Russian>Я слышал, как некоторые парни говорили о</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_12">
 				<Original>I think I heard policemen talk about a</Original>
-				<Czech>Myslím, že jsem slyšel policisty mluvit</Czech>
+				<Czech>Myslím, že jsem slyšel policisty mluvit o</Czech>
 				<Chinesesimp>我听到警察谈论着</Chinesesimp>
 				<Russian>Кажется, я слышал, как полицейские говорили о</Russian>
 			</Key>
 			<Key ID="STR_NODE_C_INFO_INTRO_13">
 				<Original>Some time ago I could hear some soldiers talk about a</Original>
-				<Czech>Před časem jsem slyšel, jak někteří vojáci mluví</Czech>
+				<Czech>Před časem jsem slyšel, jak někteří vojáci mluví o</Czech>
 				<Chinesesimp>不久之前我听到几个士兵谈论着</Chinesesimp>
 				<Russian>Некоторое время назад я слышал, как некоторые солдаты говорили о</Russian>
 			</Key>
 			<Key ID="STR_NODE_AT">
 				<Original>at %1</Original>
-				<Czech>při %1</Czech>
+				<Czech>na %1</Czech>
 				<Chinesesimp>在%1</Chinesesimp>
 				<Russian>в %1</Russian>
 			</Key>
 			<Key ID="STR_NODE_TO">
 				<Original>to the %1</Original>
-				<Czech>na %1</Czech>
+				<Czech>k %1</Czech>
 				<Chinesesimp>位于%1</Chinesesimp>
 				<Russian>к %1</Russian>
 			</Key>
@@ -2485,7 +2485,7 @@
 			</Key>
 			<Key ID="STR_O_HELLO_3">
 				<Original>Move along, I am busy! What do you want?</Original>
-				<Czech>Co chcete? Jděte dál mám práci!</Czech>
+				<Czech>Co chcete? Jdi dál mám práci!</Czech>
 				<Chinesesimp>该滚就滚，我正忙着呢！你想干什么？</Chinesesimp>
 				<Russian>Идите, я занят! Что тебе надо?</Russian>
 			</Key>
@@ -2649,13 +2649,13 @@
 			</Key>
 			<Key ID="STR_IM_SAVE">
 				<Original>Savegames</Original>
-				<Czech>Uložit hru</Czech>
+				<Czech>Uložené hry</Czech>
 				<Chinesesimp>存档</Chinesesimp>
 				<Russian>Сохранения</Russian>
 			</Key>
 			<Key ID="STR_IM_TUTOR">
 				<Original>Tutorial</Original>
-				<Czech>Průvodce</Czech>
+				<Czech>Návod</Czech>
 				<Chinesesimp>教程</Chinesesimp>
 				<Russian>Руководство</Russian>
 			</Key>
@@ -2667,7 +2667,7 @@
 			</Key>
 			<Key ID="STR_IM_DESC">
 				<Original>Load a previously saved game or create a new campaign.</Original>
-				<Czech>Načtěte dříve uloženou hru nebo vytvořte novou kampaň.</Czech>
+				<Czech>Načti dříve uloženou hru nebo vytvoř novou kampaň.</Czech>
 				<Chinesesimp>加载过往存档或开始一个新的战役。</Chinesesimp>
 				<Russian>Загрузите ранее сохраненную игру или создайте новую кампанию.</Russian>
 			</Key>
@@ -2687,7 +2687,7 @@
 			</Key>
 			<Key ID="STR_MM_SAVE">
 				<Original>Savegames</Original>
-				<Czech>Uložit postup</Czech>
+				<Czech>Uložit hru</Czech>
 				<Chinesesimp>存档</Chinesesimp>
 				<Russian>Сохранение игры</Russian>
 			</Key>
@@ -2779,13 +2779,13 @@
 			</Key>
 			<Key ID="STR_CON_CLAIM">
 				<Original>CLAIM</Original>
-				<Czech>Převzít-Vytvořit</Czech>
+				<Czech>Převzít</Czech>
 				<Chinesesimp>索取</Chinesesimp>
 				<Russian>ЗАПРОС</Russian>
 			</Key>
 			<Key ID="STR_CON_CANT_CITY">
 				<Original>We can't claim a city!</Original>
-				<Czech>Nemůžeme si nárokovat město!</Czech>
+				<Czech>Nemůžeme převzít město!</Czech>
 				<Chinesesimp>我们不能索取城市！</Chinesesimp>
 				<Russian>Мы не можем претендовать на город!</Russian>
 			</Key>
@@ -2797,7 +2797,7 @@
 			</Key>
 			<Key ID="STR_CON_CLAIM_T">
 				<Original>Claim a location</Original>
-				<Czech>Nárokovat místo</Czech>
+				<Czech>Převzít místo</Czech>
 				<Chinesesimp>索取地点</Chinesesimp>
 				<Russian>Запрос на локацию</Russian>
 			</Key>
@@ -2821,7 +2821,7 @@
 			</Key>
 			<Key ID="STR_CON_NOT_ENOUGH">
 				<Original>You must have at least %1 build resources!</Original>
-				<Czech>Musíte mít alespoň %1 surovin!</Czech>
+				<Czech>Musš mít alespoň %1 surovin!</Czech>
 				<Chinesesimp>你必须拥有至少%1建筑物资！</Chinesesimp>
 				<Russian>У вас должно быть не менее %1 ресурсов сборки!</Russian>
 			</Key>
@@ -2845,7 +2845,7 @@
 			</Key>
 			<Key ID="STR_CON_INVALID_CLAIM">
 				<Original>There is nothing to claim here!</Original>
-				<Czech>Tady není co potvrdit!</Czech>
+				<Czech>Tady není co převzít!</Czech>
 				<Chinesesimp>这里没什么可索取的！</Chinesesimp>
 				<Russian>Здесь не на что претендовать!</Russian>
 			</Key>
@@ -2883,14 +2883,14 @@
 			</Key>
 			<Key ID="STR_GS_SOLDIER_RECRUITED">
 				<Original>We have recruited one %1</Original>
-				<Czech>Přijali jsme jeden %1</Czech>
+				<Czech>Rekrutovali jsme jednoho %1</Czech>
 				<Chinesesimp>我们征募了一名%1</Chinesesimp>
 				<Russian>Мы завербовали одного %1</Russian>
 			</Key>
 		<Container name="InGameMenuTabNotes.sqf">
 			<Key ID="STR_NOTES_TEXT">
 				<Original>Here I will write notes... (Use Shift+Enter for a new line, Ctrl+C and Ctrl+V for copying text)</Original>
-				<Czech>Zde budu psát poznámky ... (Pro kopírování textu použijte Shift+Enter, Ctrl+C a Ctrl+V)</Czech>
+				<Czech>Zde budu psát poznámky ... (Pro kopírování textu použij Shift+Enter, Ctrl+C a Ctrl+V)</Czech>
 				<Chinesesimp>我会在这里记录下笔记...（使用Shift+回车键换行，Ctrl+C和Ctrl+V复制粘贴文本）</Chinesesimp>
 				<Russian>Здесь я буду писать заметки... (Используйте Shift+Enter для новой строки, Ctrl+C и Ctrl+V для копирования текста)</Russian>
 			</Key>
@@ -2912,13 +2912,13 @@
 			</Key>
 			<Key ID="STR_IO_INVALID_ENY_FORCE">
 				<Original>You must enter a valid amount of enemy forces.</Original>
-				<Czech>Musíte zadat množství nepřátelských sil.</Czech>
+				<Czech>Musš zadat množství nepřátelských sil.</Czech>
 				<Chinesesimp>你必须输入有效的敌军强度。</Chinesesimp>
 				<Russian>Вы должны ввести действительное количество вражеских сил.</Russian>
 			</Key>
 			<Key ID="STR_IO_FACTION_NOT_LOADED">
 				<Original>ERROR: You must select factions which have all the addons loaded on the server.</Original>
-				<Czech>Chyba: Musíte vybrat frakce, které mají všechny adony uložené na serveru.</Czech>
+				<Czech>Chyba: Musš vybrat frakce, které mají všechny adony načtené na serveru.</Czech>
 				<Chinesesimp>错误：你必须选择已经加载到服务器中的阵营。</Chinesesimp>
 				<Russian>ОШИБКА: вы должны выбрать фракции, у которых все аддоны загружены на сервер.</Russian>
 			</Key>
@@ -2934,25 +2934,25 @@
 			</Key>
 			<Key ID="STR_NOTHING_TO_SAVE">
 				<Original>There is nothing to save yet</Original>
-				<Czech>Zatím není co zachraňovat.</Czech>
+				<Czech>Zatím není co ukládat.</Czech>
 				<Chinesesimp>什么可保存的</Chinesesimp>
 				<Russian>Сохранять пока нечего</Russian>
 			</Key>
 			<Key ID="STR_FILEXT_SUGGEST">
 				<Original>With FileXT addon you can store saved games in a more convenient way.</Original>
-				<Czech>S filext addon můžete ukládat uložené hry pohodlnějším způsobem.</Czech>
+				<Czech>S filext addon můžeš ukládat uložené hry pohodlnějším způsobem.</Czech>
 				<Chinesesimp>FileXT插件能让你更轻松地存储游戏存档。</Chinesesimp>
 				<Russian>С помощью дополнения FileXT вы можете хранить сохраненные игры более удобным способом.</Russian>
 			</Key>
 			<Key ID="STR_FILEXT_SUGGEST_1">
 				<Original>You can find installation instructions at our Guide Web-Page.</Original>
-				<Czech>Pokyny k instalaci naleznete na naší webové stránce průvodce.</Czech>
+				<Czech>Pokyny k instalaci nalezneš na naší webové stránce průvodce.</Czech>
 				<Chinesesimp>你可以在我们的指引网站找到安装教程。</Chinesesimp>
 				<Russian>Вы можете найти инструкции по установке на нашей веб-странице руководства.</Russian>
 			</Key>
 			<Key ID="STR_CREATE_NEW_GAME">
 				<Original>Create a new game save?\n</Original>
-				<Czech>Vytvořit novou hru a uložit?\n</Czech>
+				<Czech>Vytvořit novou hru?\n</Czech>
 				<Chinesesimp>建立新存档？\n</Chinesesimp>
 				<Russian>Создать новое сохранение игры?\n</Russian>
 			</Key>
@@ -2998,7 +2998,7 @@
 			</Key>
 			<Key ID="STR_TUTORIAL_HINT_3">
 				<Original>You can select and copy the link with CTRL + C</Original>
-				<Czech>Můžete vybrat a zkopírovat odkaz pomocí kombinace kláves CTRL + C</Czech>
+				<Czech>Můžeš vybrat a zkopírovat odkaz pomocí kombinace kláves CTRL + C</Czech>
 				<Chinesesimp>你可以通过Ctrl+C选择并复制链接</Chinesesimp>
 				<Russian>Вы можете выбрать и скопировать ссылку с помощью CTRL + C</Russian>
 			</Key>
@@ -3082,7 +3082,7 @@
 		<Container name="GMINIT">
 			<Key ID="STR_GMINIT_CHOSEN_FACTIONS">
 				<Original>CHOSEN FACTIONS:</Original>
-				<Czech>VYBRAT FRAKCE:</Czech>
+				<Czech>VYBRANÉ FRAKCE:</Czech>
 				<Chinesesimp>选择阵营：</Chinesesimp>
 				<Russian>ВЫБОР ФРАКЦИИ</Russian>
 			</Key>
@@ -3147,7 +3147,7 @@
 			</Key>
 			<Key ID="STR_GMINIT_NAME">
 				<Original>ENTER NAME</Original>
-				<Czech>ZADEJTE NÁZEV</Czech>
+				<Czech>ZADEj NÁZEV</Czech>
 				<Chinesesimp>输入名称</Chinesesimp>
 				<Russian>ВВЕДИТЕ ИМЯ</Russian>
 			</Key>
@@ -3179,7 +3179,7 @@
 		<Container name="NOTES">
 			<Key ID="STR_NOTES_HINT">
 				<Original>You can write notes here. Radio cryptokeys will also be added here.</Original>
-				<Czech>Můžete psát poznámky zde. Radio kryptoklíče budou také přidány zde.</Czech>
+				<Czech>Můžeš psát poznámky zde. Radio kryptoklíče budou také přidány zde.</Czech>
 				<Chinesesimp>你可以在此写下笔记。无线电密钥也会自动添加到这里。</Chinesesimp>
 				<Russian>Вы можете писать заметки здесь. Здесь же будут добавлены радио-криптоключи.</Russian>
 			</Key>
@@ -3255,7 +3255,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_HEADLINE_DESC">
 				<Original>Welcome to the Vindicta tutorial. This tutorial will help you enjoy this mission.</Original>
-				<Czech>Vítejte na vindicta tutorial. Tento výukový program vám pomůže vychutnat si tuto misi.</Czech>
+				<Czech>Všj na vindicta tutorial. Tento výukový program vám pomůže vychutnat si tuto misi.</Czech>
 				<Chinesesimp>欢迎查看Vindicta教程。本教程将会助你了解并享受这个任务。</Chinesesimp>
 				<Russian>Добро пожаловать в учебник Vindicta. Этот урок поможет вам получить удовольствие от этой миссии.</Russian>
 			</Key>
@@ -3267,7 +3267,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_LINKS_DESC">
 				<Original>Additional information about the mission can be found at:\n\nvindicta-team.github.io/Vindicta-Docs\n\nYou can also find the development team's Discord channel on the mod's Steam Workshop page.\n\nThis tutorial may contain outdated information, so please check the online documentation if you are having issues.</Original>
-				<Czech>Další informace o misi naleznete na adrese:\n\nvindicta-team.github.io/Vindicta-Docs\n\nMůžete také najít kanál Discord vývojového týmu na stránce steam workshopu modu.\n\nToto výukový program může obsahovat zastaralé informace, proto se prosím podívejte do online dokumentace, pokud máte problémy.</Czech>
+				<Czech>Další informace o misi nalezneš na adrese:\n\nvindicta-team.github.io/Vindicta-Docs\n\nMůžeš také najít kanál Discord vývojového týmu na stránce steam workshopu modu.\n\nToto výukový program může obsahovat zastaralé informace, proto se prosím podívej do online dokumentace, pokud máš problémy.</Czech>
 				<Chinesesimp>有关任务的额外信息可于此网址找到：\n\nvindicta-team.github.io/Vindicta-Docs\n\n你也可以通过本模组的Steam创意工坊页面找到并加入开发组的Discord频道\n\n本教程可能包含过时的信息，如果您有问题，请查看在线文档。</Chinesesimp>
 				<Russian>Дополнительную информацию о миссии можно найти здесь at:\n\nvindicta-team.github.io/Vindicta-Docs\n\nВы также можете найти канал Discord команды разработчиков на странице Steam Workshop мода.\n\nЭтот учебник может содержать устаревшую информацию, поэтому, пожалуйста, проверьте онлайн-документацию, если у вас возникли проблемы.</Russian>
 			</Key>
@@ -3279,7 +3279,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_INTRO_DESC">
 				<Original>If you are reading this, congratulations! You have navigated to the mission's in-game menu and you have opened the tutorial. There are no other keyboard keys you need to know about to play this mission.\n\nVindicta is a sandbox scenario where your main goal is to liberate the island from enemy occupation. There is no strict end condition and no end screen, but you may consider the mission finished when you take all airfields under your control, because then enemy will not be able to bring more reinforcements.</Original>
-				<Czech>Pokud čtete tento, gratulujeme! Přešli jste do herního menu mise a otevřeli jste výukový program. Neexistují žádné další klávesy, které byste měli vědět o hraní této mise.\n\nVindicta je sandboxový scénář, kde je vaším hlavním cílem osvobodit ostrov od nepřátelské okupace. Neexistuje žádný přísný koncový stav a žádná koncová obrazovka, ale můžete zvážit misi dokončenou, když vezmete všechna letiště pod kontrolou, protože pak nepřítel nebude schopen přinést více posil.</Czech>
+				<Czech>Pokud čteš tento, gratulujeme! Přešli jste do herního menu mise a otevřeli jste výukový program. Neexistují žádné další klávesy, které byste měli vědět o hraní této mise.\n\nVindicta je sandboxový scénář, kde je vaším hlavním cílem osvobodit ostrov od nepřátelské okupace. Neexistuje žádný přísný koncový stav a žádná koncová obrazovka, ale můžeš zvážit misi dokončenou, když vezmeš všechna letiště pod kontrolou, protože pak nepřítel nebude schopen přinést více posil.</Czech>
 				<Chinesesimp>如果你正在读这篇文章，恭喜你！你已来到任务的游戏内菜单，并且打开了教程。畅玩本任务不需要知道其它键盘按键。\n\nVindicta是一个沙盒场景任务，你的主要目标是将岛屿从敌人的占领中解放出来。没有严格的结局条件，也没有终局动画，但当你控制所有机场时任务就已经完成了，因为此时的敌人已无法调遣更多增援。</Chinesesimp>
 				<Russian>Если Вы читаете это, поздравляю! Вы перешли в игровое меню миссии и открыли учебник. Нет никаких других клавиш клавиатуры, о которых вам нужно знать, чтобы играть в эту миссию.\n\nVindicta - это сценарий песочницы, где ваша главная цель-освободить остров от вражеской оккупации. Там нет строгого конечного условия и нет конечного экрана, но вы можете считать миссию законченной, когда возьмете все аэродромы под свой контроль, потому что тогда враг не сможет привести больше подкреплений.</Russian>
 			</Key>
@@ -3291,7 +3291,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_QUICK_I_DESC">
 				<Original>This is a simple step by step series, to help you get started:\n\n1. Start by asking civilians for intel. See 'Intel I' in this tutorial for more information on this. Hopefully a civilian will already point out the location of a police station.\n\n2. If not, drive away to a different town and retry until you have found a police station.\n\n3. Once you have found your first police station, kill the police officers inside using your pistol. You always spawn with a pistol and some ammo.\n\n4. Find a suitable vehicle and use ACE3 to load the ammo boxes inside.\n\nProceed to the next page to continue this series.</Original>
-				<Czech>Jedná se o jednoduchou řadu kroků, která vám pomůže začít:\n\n1. Začněte tím, že požádáte civilisty o informace. Další informace naleznete v tomto kurzu v tématu "Intel I". Doufejme, že civilista již bude poukazovat na umístění policejní stanice.\n\n2. Pokud ne, jeďte do jiného města a opakujte akci, dokud nenajdete policejní stanici.\n\n3. Jakmile najdete svou první policejní stanici, zabijte policisty uvnitř pomocí pistole. Vždy se rodíte s pistolí a nějakou municí.\n\n4. Najděte vhodné vozidlo a použijte ACE3 k načtení bedny s municí uvnitř.nnProdáno na další stránku, abyste v této sérii pokračovali.</Czech>
+				<Czech>Jedná se o jednoduchou řadu kroků, která vám pomůže začít:\n\n1. Začni tím, že požádáš civilisty o informace. Další informace nalezneš v tomto kurzu v tématu "Intel I". Doufejme, že civilista již bude poukazovat na umístění policejní stanice.\n\n2. Pokud ne, jeďte do jiného města a opakuj akci, dokud nenajdeš policejní stanici.\n\n3. Jakmile najdeš svou první policejní stanici, zabij policisty uvnitř pomocí pistole. Vždy se rodš s pistolí a nějakou municí.\n\n4. Najdi vhodné vozidlo a použij ACE3 k načtení bedny s municí uvnitř.nnProdáno na další stránku, abyste v této sérii pokračovali.</Czech>
 				<Chinesesimp>这是一个助你入门的分步教学系列：\n\n1. 开局先向平民索要情报。有关这方面的更多信息，请参阅本教程中的“情报 I”。希望有平民能为你指出警局的位置。\n\n2. 如果没有，驱车前往其它城市并重试，直到找到警局。\n\n 3. 一旦找到了你的第一个警局，用手枪杀死里面的警察。你永远会带着手枪和一些子弹重生。\n\n4. 找到合适的车辆并使用ACE3功能将弹药箱装入内部。\n\n进入下一页继续本系列。</Chinesesimp>
 				<Russian>Это простая пошаговая серия, которая поможет вам начать работу:\n\n1. Начните с того, что спросите у мирных жителей информацию. Ознакомьтесь с 'Информация I' в этом руководстве для получения дополнительной информации об этом. Будем надеяться, что гражданский укажет место расположения полицейского участка.\n\n2. Если нет, уезжайте в другой город и повторяйте попытку, пока не найдете полицейский участок.\n\n3. Как только вы найдете свой первый полицейский участок, убейте полицейских внутри, используя свой пистолет. Вы всегда появляетесь с пистолетом и некоторыми боеприпасами.\n\n4. Найдите подходящую машину и используйте ACE3, чтобы загрузить ящики с боеприпасами внутрь.перейдите на следующую страницу, чтобы продолжить эту серию.</Russian>
 			</Key>
@@ -3303,7 +3303,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_QUICK_II_DESC">
 				<Original>5. Drive to a remote location, preferrably one the enemy cannot easily spot. Unload the crate. It should contain some construction resources. Look directly at the crate, or place some of the construction resources in your inventory, then press [U]. This will open the in-game menu you are in now. Go to the 'Strategic' tab and select type Camp, enter a name (or use the pre-selected one) and press 'Create'. This will create your first camp. NOTE: You must be away from other locations, such as cities, to create a camp.\n\nProceed to the next page to continue this series. There are also additional pages with more in-depth information.</Original>
-				<Czech>5. Cesta na vzdálené místo, preferrably jeden nepřítel nemůže snadno na místě. Vyložte bednu. Měl by obsahovat nějaké stavební zdroje. Podívejte se přímo na bednu, nebo umístit některé stavební zdroje ve vašem inventáři, pak stiskněte tlačítko [U]. Tím se otevře nabídka ve hře, ve které se právě najdete. Přejděte na kartu "Strategické" a vyberte typ Tábor, zadejte název (nebo použijte předem vybraný) a stiskněte tlačítko "Vytvořit". Tím vytvoříte váš první tábor. Poznámka: Musíte být mimo jiné umístění, například města, chcete-li vytvořit tábor.\n\nProdál na další stránku pokračovat v této řadě. K dispozici jsou také další stránky s podrobnějšími informacemi.</Czech>
+				<Czech>5. Cesta na vzdálené místo, preferrably jeden nepřítel nemůže snadno na místě. Vyložte bednu. Měl by obsahovat nějaké stavební zdroje. Podívej se přímo na bednu, nebo umístit některé stavební zdroje ve vašem inventáři, pak stiskni tlačítko [U]. Tím se otevře nabídka ve hře, ve které se právě najdete. Přejdi na kartu "Strategické" a vyber typ Tábor, zadej název (nebo použij předem vybraný) a stiskni tlačítko "Vytvořit". Tím vytvořš váš první tábor. Poznámka: Musš být mimo jiné umístění, například města, chcete-li vytvořit tábor.\n\nProdál na další stránku pokračovat v této řadě. K dispozici jsou také další stránky s podrobnějšími informacemi.</Czech>
 				<Chinesesimp>5. 驱车逃离并前往偏远地区，最好是个敌人不易察觉的地方。卸下弹药箱。其内部应包含部分建筑物资。直接看向弹药箱，或将部分建筑物资放入你的物品栏后，按下[U]键。这将会打开你现在所处的游戏内菜单。进入‘战略’选单并选择营地，输入名称（使用默认名称）并按下‘建立’。这将会创建你的首个营地。注意：你必须远离城市等地区后才能建立营地。\n\n进入下一页继续本系列。另有其他包含更深入信息的页面。</Chinesesimp>
 				<Russian>5. Двигайтесь в отдаленное место, предпочтительно такое, которое враг не сможет легко обнаружить. Разгрузите ящик. Он должен содержать некоторые строительные ресурсы. Посмотрите прямо на ящик или поместите некоторые строительные ресурсы в свой инвентарь, а затем нажмите [U]. Это откроет внутриигровое меню, в котором вы сейчас находитесь. Перейдите на вкладку 'Стратегия' и выберите тип лагеря, введите имя (или используйте предварительно выбранное) и нажмите 'Создать'. Это создаст ваш первый лагерь. Примечание: Вы должны быть далеко от других мест, таких как города, чтобы создать лагерь.\n\nПройдите на следующую страницу, чтобы продолжить эту серию. Есть также дополнительные страницы с более подробной информацией.</Russian>
 			</Key>
@@ -3315,7 +3315,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_QUICK_III_DESC">
 				<Original>6. Your new camp should give you an option to open the build menu. See the page 'Build Menu' for additional information. Once you have opened the build menu, navigate to the Storage category and create any crate, provided you have enough construction resources.\n\n7. The newly built storage crate will give you three options: 'Arsenal', 'Arsenal To External Inventory', and 'External Inventory To Arsenal'. Use the third option to load the box from the police station into the Limited Arsenal crate.\n\n 8. You can now use the Limited Arsenal to more easily equip your captured equipment.\n\nProceed to the next page to continue this series.</Original>
-				<Czech>6. Váš nový tábor by vám měl dát možnost otevřít nabídku sestavení. Další informace naleznete na stránce "Sestavit nabídku". Po otevření nabídky sestavení přejděte do kategorie Úložiště a vytvořte libovolnou bednu, pokud máte dostatek stavebních prostředků.\n\n7. Nově postavená skladovací bedna vám poskytne tři možnosti: "Arsenal", "Arsenal to External Inventory" a "External Inventory To Arsenal". Použijte třetí možnost pro načtení krabice z policejní stanice do bedny Limited Arsenal.nn 8. Nyní můžete pomocí omezeného arzenálu snadněji vybavit zachycené vybavení.\n\nProvedení na další stránku, abyste mohli pokračovat v této sérii.</Czech>
+				<Czech>6. Váš nový tábor by vám měl dát možnost otevřít nabídku sestavení. Další informace nalezneš na stránce "Sestavit nabídku". Po otevření nabídky sestavení přejdi do kategorie Úložiště a vytvořte libovolnou bednu, pokud máš dostatek stavebních prostředků.\n\n7. Nově postavená skladovací bedna vám poskytne tři možnosti: "Arsenal", "Arsenal to External Inventory" a "External Inventory To Arsenal". Použij třetí možnost pro načtení krabice z policejní stanice do bedny Limited Arsenal.nn 8. Nyní můžeš pomocí omezeného arzenálu snadněji vybavit zachycené vybavení.\n\nProvedení na další stránku, abyste mohli pokračovat v této sérii.</Czech>
 				<Chinesesimp>6. 你的新营地会为你提供打开建造菜单的选项。更多相关信息，请参见‘建造菜单’页面。打开建造菜单后，只要有足够的建筑物资，你就可以导航到存储类别并建造任一弹药箱。\n\n7. 新建造的弹药箱会给你提供三个选项：‘军火库’、‘从军火库转移至外部物品栏’以及‘从外部物品栏转移至军火库’。用第三个选项将从警局搞来的弹药箱中的物资转移到受限军火库中。\n\n8. 现在你就可以通过受限军火库轻松的装备缴获来的物资了。\n\n进入下一页继续本系列。</Chinesesimp>
 				<Russian>6. Ваш новый лагерь должен дать вам возможность открыть меню сборки. Дополнительную информацию смотрите на странице 'Меню Строительства'. Как только вы откроете меню сборки, перейдите в категорию хранилища и создайте любой ящик, при условии, что у вас достаточно строительных ресурсов.\n\n7. Недавно построенный ящик для хранения даст вам три варианта: 'Арсенал', 'Арсенал для внешнего инвентаря' и 'внешний инвентарь для Арсенала'. Используйте третий вариант, чтобы загрузить коробку из полицейского участка в Ограниченный ящик Арсенала.\n\n 8. Теперь вы можете использовать Ограниченный Арсенал, чтобы легче экипировать свое захваченное снаряжение.\n\nПерейдите на следующую страницу, чтобы продолжить эту серию.</Russian>
 			</Key>
@@ -3327,7 +3327,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_QUICK_IV_DESC">
 				<Original>9. Any crate or vehicle can be loaded into the Limited Arsenal, and you can load parts or all of the Limited Arsenal into vehicles, crates, and other Limited Arsenals. You can also load items into the normal 'Inventory' to load them into the Limited Arsenal. This is useful if you would like to quickly unequip, but not lose, your personal equipment. Simply go into the Limited Arsenal using the 'Arsenal' action, and press 'Inv. To Arsenal' at the bottom to load the regular 'Inventory'.\n\nProceed to the next page to continue this series.</Original>
-				<Czech>9. Do omezeného arzenálu lze naložit jakoukoli bednu nebo vozidlo a můžete načíst součásti nebo veškerý omezený arzenál do vozidel, beden a dalších omezených arzenálů. Můžete také načíst položky do normálního "inventáře", abyste je načetli do omezeného arzenálu. To je užitečné, pokud byste chtěli rychle unequip, ale neztratit, vaše osobní vybavení. Jednoduše jděte do omezeného arzenálu pomocí akce 'Arsenal' a stiskněte tlačítko 'Inv. Chcete-li v dolní části načíst běžnou část inventoryu,\n\nProdáno na další stránku a pokračujte v této sérii.</Czech>
+				<Czech>9. Do omezeného arzenálu lze naložit jakoukoli bednu nebo vozidlo a můžeš načíst součásti nebo veškerý omezený arzenál do vozidel, beden a dalších omezených arzenálů. Můžeš také načíst položky do normálního "inventáře", abyste je načetli do omezeného arzenálu. To je užitečné, pokud byste chtěli rychle unequip, ale neztratit, vaše osobní vybavení. Jednoduše jdi do omezeného arzenálu pomocí akce 'Arsenal' a stiskni tlačítko 'Inv. Chcete-li v dolní části načíst běžnou část inventoryu,\n\nProdáno na další stránku a pokračuj v této sérii.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>9. Любой ящик или транспортное средство могут быть загружены в Ограниченный Арсенал, и вы можете загрузить части или весь Ограниченный Арсенал в транспортные средства, ящики и другие Ограниченные Арсеналы. Вы также можете загрузить предметы в обычный 'Инвентарь', чтобы загрузить их в Ограниченный Арсенал. Это полезно, если вы хотите быстро снять снаряжение,но не потерять его. Просто войдите в Ограниченный Арсенал, используя действие 'Арсенал', и нажмите 'Инв. В Арсенал' внизу загружается обычный 'Инвентарь'.\n\nПерейдите на следующую страницу, чтобы продолжить эту серию.</Russian>
 			</Key>
@@ -3339,7 +3339,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_QUICK_V_DESC">
 				<Original>10. You may want to continue to attack police station until you have enough equipment.\n\n11. After that you should find an outpost and capture it. Enemy soldiers may carry tactical tablets, which have a chance of giving you a radio crytokey. Once you find a radio cryptokey, you can load it into a radio shack constructed at one of your camps. Open this in-game menu by pressing [U], go to the 'Notes' tab and copy the radio cryptokey. Go to a radio shack, select the action to 'Manage cryptokeys' and enter your found cryptokey. This will give you access to a constant stream of enemy intel, such as attacks on your own outposts and positions.\n\n Capture enemy positions to win the game! Continue reading this tutorial to learn more.</Original>
-				<Czech>10. Možná budete chtít pokračovat v útoku na policejní stanici, dokud nebudete mít dostatek vybavení.\n\n11. Poté byste měli najít základnu a zachytit ji. Nepřátelští vojáci mohou nést taktické tablety, které mají šanci dát vám rádiový crytokey. Jakmile najdete rádiový kryptoklíčo, můžete ho načíst do rádiové chatrče postavené v jednom z vašich táborů. Otevřete tuto herní nabídku stisknutím tlačítka [U], přejděte na kartu Poznámky a zkopírujte rádiový kryptoklíčo. Přejděte do rádiové chatrče, vyberte akci "Spravovat kryptoklíče" a zadejte nalezený kryptoklíčo. Získáte tak přístup k neustálému proudu nepřátelských informací, jako jsou útoky na vlastní základny a pozice.\n\n Obsazujte nepřátelské pozice a vyhrajte hru! Pokračujte ve čtení tohoto kurzu se dozvíte více.</Czech>
+				<Czech>10. Možná budeš chtít pokračovat v útoku na policejní stanici, dokud nebudeš mít dostatek vybavení.\n\n11. Poté byste měli najít základnu a zachytit ji. Nepřátelští vojáci mohou nést taktické tablety, které mají šanci dát vám rádiový crytokey. Jakmile najdeš rádiový kryptoklíčo, můžeš ho načíst do rádiové chatrče postavené v jednom z vašich táborů. Otevřeš tuto herní nabídku stisknutím tlačítka [U], přejdi na kartu Poznámky a zkopíruj rádiový kryptoklíčo. Přejdi do rádiové chatrče, vyber akci "Spravovat kryptoklíče" a zadej nalezený kryptoklíčo. Získáš tak přístup k neustálému proudu nepřátelských informací, jako jsou útoky na vlastní základny a pozice.\n\n Obsazuj nepřátelské pozice a vyhraj hru! Pokračuj ve čtení tohoto kurzu se dozvíš více.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>10. Вы можете продолжать атаковать полицейские участоки, пока у вас не будет достаточно оборудования.\n\n11. После этого вам нужно найти Аванпост и захватить его. Солдаты противника могут носить тактические планшеты, которые могут дать вам радиоключ. Найдя криптоключ для радио, вы можете загрузить его в радиорубку, построенную в одном из ваших лагерей. Откройте это внутриигровое меню, нажав [U], перейдите на вкладку 'Заметки' и скопируйте криптоключ радио. Зайдите в радиорубку, выберите действие 'Управление криптоключами' и введите найденный криптоключ. Это даст вам доступ к постоянному потоку вражеской информации, такой как атаки на ваши собственные аванпосты и позиции.\n\n Захватывайте вражеские позиции, чтобы выиграть игру! Продолжайте читать этот учебник, чтобы узнать больше.</Russian>
 			</Key>
@@ -3351,7 +3351,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_SETUP_DESC">
 				<Original>After the mission is loaded, you must set up the campaign in the 'Create' tab. Select initial conditions and enemy factions of the scenario.\n\nOnce the game world is generated, these settings can not be changed. You can create a new campaign at any time to try different settings.</Original>
-				<Czech>Po načtení mise je nutné kampaň nastavit na kartě Vytvořit. Vyberte počáteční podmínky a nepřátelské frakce scénáře.\n\nOnto herní svět je generován, tato nastavení nelze změnit. Můžete kdykoli vytvořit novou kampaň a vyzkoušet si různá nastavení.</Czech>
+				<Czech>Po načtení mise je nutné kampaň nastavit na kartě Vytvořit. Vyber počáteční podmínky a nepřátelské frakce scénáře.\n\nOnto herní svět je generován, tato nastavení nelze změnit. Můžeš kdykoli vytvořit novou kampaň a vyzkoušet si různá nastavení.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>После загрузки миссии необходимо настроить кампанию на вкладке 'Создать'. Выберите начальные условия и вражеские фракции сценария.\n\nПосле создания игрового мира эти настройки нельзя будет изменить. Вы можете создать новую кампанию в любое время и попробовать другие настройки.</Russian>
 			</Key>
@@ -3363,7 +3363,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_RESPAWN_DESC">
 				<Original>You can respawn at all friendly locations and at any city, so long as there are no enemies nearby, and as long as they have an infantry capacity greater than zero. Camps, which can be created with build resources also enable respawn in nearby cities in case you run out of vehicles.</Original>
-				<Czech>Můžete se znovu oživit na všech přátelských místech a v každém městě, pokud v okolí nejsou žádní nepřátelé a pokud mají pěchotní kapacitu větší než nula. Tábory, které mohou být vytvořeny s stavět zdroje také umožňují respawn v okolních městech v případě, že vám dojdou vozidel.</Czech>
+				<Czech>Můžeš se znovu oživit na všech přátelských místech a v každém městě, pokud v okolí nejsou žádní nepřátelé a pokud mají pěchotní kapacitu větší než nula. Tábory, které mohou být vytvořeny s stavět zdroje také umožňují respawn v okolních městech v případě, že vám dojdou vozidel.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Вы можете возродиться во всех дружественных локациях и в любом городе, если поблизости нет врагов и если их численность пехоты больше нуля. Лагеря, которые можно создать с помощью строительных ресурсов, также позволяют возрождаться в близлежащих городах, если у вас закончится транспорт.</Russian>
 			</Key>
@@ -3375,7 +3375,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_PROGRESS_DESC">
 				<Original>The enemy will dynamically react to your actions, and the reaction will depend on the current war state. At the start of the game, however, everything is relatively calm and enemy occupation is low.\n\nExpect the enemy to bring reinforcements to their airfields as a reaction to you attacking outposts.</Original>
-				<Czech>Nepřítel bude dynamicky reagovat na vaše činy, a reakce bude záviset na současném válečném stavu. Na začátku hry je však vše relativně klidné a nepřátelská okupace nízká.\n\nOčekáte nepřítele, aby přivedl posily na svá letiště jako reakci na útočící základny.</Czech>
+				<Czech>Nepřítel bude dynamicky reagovat na vaše činy, a reakce bude záviset na současném válečném stavu. Na začátku hry je však vše relativně klidné a nepřátelská okupace nízká.\n\nOčekáš nepřítele, aby přivedl posily na svá letiště jako reakci na útočící základny.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Противник будет динамично реагировать на ваши действия, и реакция будет зависеть от текущего состояния войны. Однако в начале игры все относительно спокойно, и вражеская оккупация невелика.\n\nОжидайте, что противник доставит подкрепление со своих аэродромов в ответ на вашу атаку на аванпосты.</Russian>
 			</Key>
@@ -3387,7 +3387,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_UNDERCOVER_I_DESC">
 				<Original>When you are starting out, you should use the undercover system to your advantage until you have found better weapons, equipment, and vehicles. Watch the meter at the top of your screen: If it's full and red, you are overt. Enemy forces will shoot on sight while if they spot you while you are overt. The text below the meter informs you about reasons why the meter is filling up. Some of the factors that determine your 'suspiciousness':\n• Clothing, like headwear, uniform, vest, night vision goggles\n• Openly carrying a weapon immediately makes you overt\n• Fast movement draws attention and suspicion\n• In vehicles, only your headwear and vest count, and enemies will only spot your equipment as you get closer. The meter will only fill once you get closer to enemies.</Original>
-				<Czech>Když začínáte, měli byste použít tajný systém ve svůj prospěch, dokud nenajdete lepší zbraně, vybavení a vozidla. Sledujte měřič v horní části obrazovky: Pokud je plný a červený, jste z přehledu. Nepřátelské síly budou střílet na pohled, zatímco v případě, že na místě vás, zatímco vy jste zjevná. Text pod měřičem vás informuje o důvodech, proč se měřič plní. Některé z faktorů, které určují vaši "podezřívavost":\n• Oblečení, jako jsou pokrývky hlavy, uniforma, vesta, brýle pro noční vidění\n• Otevřené nošení zbraně vás okamžitě přiměje k tomu, abyste se dostali do očí\n• Rychlý pohyb přitahuje pozornost a podezření\n• Ve vozidlech pouze vaše pokrývky hlavy a vesty počítají a nepřátelé uvidí vaše vybavení pouze tehdy, když se přiblížíte. Měřič se naplní pouze tehdy, když se dostanete blíže k nepřátelům.</Czech>
+				<Czech>Když začínáte, měli byste použít tajný systém ve svůj prospěch, dokud nenajdeš lepší zbraně, vybavení a vozidla. Sleduj měřič v horní části obrazovky: Pokud je plný a červený, jste z přehledu. Nepřátelské síly budou střílet na pohled, zatímco v případě, že na místě vás, zatímco vy jste zjevná. Text pod měřičem vás informuje o důvodech, proč se měřič plní. Některé z faktorů, které určují vaši "podezřívavost":\n• Oblečení, jako jsou pokrývky hlavy, uniforma, vesta, brýle pro noční vidění\n• Otevřené nošení zbraně vás okamžitě přiměje k tomu, abyste se dostali do očí\n• Rychlý pohyb přitahuje pozornost a podezření\n• Ve vozidlech pouze vaše pokrývky hlavy a vesty počítají a nepřátelé uvidí vaše vybavení pouze tehdy, když se přiblížš. Měřič se naplní pouze tehdy, když se dostaneš blíže k nepřátelům.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Когда вы только начинаете, вы должны использовать систему Под Прикрытием в своих интересах, пока не найдете лучшее оружие, снаряжение и транспортные средства. Следите за индикатором в верхней части экрана: если он полный и красный, значит, вы Открыты. Вражеские силы будут стрелять на месте, если они заметят вас, пока вы находитесь в Открытом положении. Текст под счетчиком информирует Вас о причинах, по которым счетчик заполняется. Некоторые из факторов, определяющих вашу 'подозрительность':\n• Одежда, например головной убор, униформа, жилет, очки ночного видения\n• Открытое ношение оружия сразу же делает вас Открытым\n• Быстрое движение привлекает внимание и подозрение\n• В транспортных средств, учитываются только ваш головной убор и жилет, а враги будут замечать ваше снаряжение только по мере вашего приближения. Счетчик заполнится, только когда вы приблизитесь к врагам.</Russian>
 			</Key>
@@ -3399,7 +3399,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_UNDERCOVER_II_DESC">
 				<Original>You can go back to being undercover by...\n\n• Escaping an approx. 1 kilometer radius at the last position where you were spotted as overt.\n• By killing all enemy groups that spotted.\n• By staying for 20 minutes.\n\nAdditionally, you should avoid approaching enemies who are in combat. You should also avoid using the ACE3 medical system while being close to enemies.</Original>
-				<Czech>Můžete se vrátit k utajení...\n\n• Útěk v okruhu cca 1 kilometru na poslední pozici, kde jste byli spatřeni jako zjevní.\n• Zabitím všech nepřátelských skupin, které byly spatřeny.\n• Tím, že zůstanete 20 minut.nnDaličně byste se měli vyhnout blížícím se nepřátelům, kteří jsou v boji. Měli byste se také vyhnout používání ace3 zdravotnického systému, zatímco je blízko k nepřátelům.</Czech>
+				<Czech>Můžeš se vrátit k utajení...\n\n• Útěk v okruhu cca 1 kilometru na poslední pozici, kde jste byli spatřeni jako zjevní.\n• Zabitím všech nepřátelských skupin, které byly spatřeny.\n• Tím, že zůstaneš 20 minut.nnDaličně byste se měli vyhnout blížícím se nepřátelům, kteří jsou v boji. Měli byste se také vyhnout používání ace3 zdravotnického systému, zatímco je blízko k nepřátelům.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Ты можешь вернуться к работе под прикрытием...\n\n• Избегая приближения в  радиусе 1 км в последней позиции, где вы были замечены как Открытый.\n• Убив все вражеские группы, которые заметили.\n• Остановитесь на 20 минут.\n\nКроме того, вам следует избегать приближаться к врагам, которые находятся в бою. Вам также следует избегать использования медицинской системы ACE3, находясь рядом с врагами.</Russian>
 			</Key>
@@ -3411,7 +3411,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_INTEL_I_DESC">
 				<Original>Intel about locations is shown on the map when you click on a location marker.\n\nYou can talk to civilians to learn about the location of nearby interesting places. Alternatively, you can simply drive around until you discover something.\n\nYou can also loot enemies to find tactical tablets, which you can read in your inventory by double clicking them with your left mouse button.</Original>
-				<Czech>Informace o lokalitách se na mapě zobrazují po kliknutí na značku polohy.\n\nMůžete mluvit s civilisty, abyste se dozvěděli o poloze zajímavých míst v okolí. Případně můžete jednoduše jezdit, dokud něco neobjevíte.\n\nMůžete také vyplenit nepřátele a najít taktické tablety, které si můžete přečíst ve svém inventáři dvojitým kliknutím levým tlačítkem myši.</Czech>
+				<Czech>Informace o lokalitách se na mapě zobrazují po kliknutí na značku polohy.\n\nMůžeš mluvit s civilisty, abyste se dozvěděli o poloze zajímavých míst v okolí. Případně můžeš jednoduše jezdit, dokud něco neobjevš.\n\nMůžeš také vyplenit nepřátele a najít taktické tablety, které si můžeš přečíst ve svém inventáři dvojitým kliknutím levým tlačítkem myši.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Информация о локациях отображается на карте, когда вы нажимаете на маркер местоположения.\n\nВы можете поговорить с гражданскими лицами, чтобы узнать о расположении близлежащих интересных мест. Кроме того, вы можете просто ездить вокруг, пока не обнаружите что-то.\n\nВы также можете обыскивать врагов, чтобы найти тактические планшеты, которые вы можете прочитать в своем инвентаре, дважды щелкнув по ним левой кнопкой мыши.</Russian>
 			</Key>
@@ -3423,7 +3423,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_INTEL_II_DESC">
 				<Original>Intel does not always inform you about locations. Some intel instead informs you about orders received by enemy squads.\n\nGaining this type of intel is the key to finding out about patrols and supply convoys, which you can then attack. Look at the map UIs intel panel to show and select currently known intel.\n\nMost intel is represented on the map with a start point and a destination.</Original>
-				<Czech>Intel vás ne vždy informuje o umístěních. Některé informace vás místo toho informují o rozkazech obdržených nepřátelskými jednotkami.\n\nSoučení tohoto typu informací je klíčem k zjištění o hlídkách a zásobovacích konvojích, na které pak můžete zaútočit. Podívejte se na panel intel uživatelského rozhraní mapy, který zobrazí a vybere aktuálně známý intel.\n\\nSpovědi jsou na mapě zastoupeny počátečním bodem a cílem.</Czech>
+				<Czech>Intel vás ne vždy informuje o umístěních. Některé informace vás místo toho informují o rozkazech obdržených nepřátelskými jednotkami.\n\nSoučení tohoto typu informací je klíčem k zjištění o hlídkách a zásobovacích konvojích, na které pak můžeš zaútočit. Podívej se na panel intel uživatelského rozhraní mapy, který zobrazí a vybere aktuálně známý intel.\n\\nSpovědi jsou na mapě zastoupeny počátečním bodem a cílem.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Разведданные не всегда сообщают вам о локациях. Вместо этого некоторые разведданные сообщают вам о приказах, полученных вражескими отрядами.\n\nПолучение такой информации - ключ к выявлению патрулей и конвоев с припасами, которые вы можете атаковать. Посмотрите на Панель Информации пользовательского интерфейса карты, чтобы показать и выбрать известную на данный момент информацию.\n\nБольшая часть информации представлена на карте с начальной и конечной точкой.</Russian>
 			</Key>
@@ -3435,7 +3435,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_CRYPTO_DESC">
 				<Original>Antennas at friendly locations can intercept enemy radio signals within several kilometers, but only if you have obtained radio cryptokeys. Cryptokeys can be found at military tactical tablets. They must be activated at any radio you own before you can start intercepting intel. Cryptokeys are automatically copied to your 'Notes' tab, from which you can copy them and to activate at the radio.</Original>
-				<Czech>Antény na přátelských místech mohou zachytit nepřátelské rádiové signály v okruhu několika kilometrů, ale pouze v případě, že jste získali rádiové kryptoklíče. Kryptoklíče lze nalézt na vojenských taktických tabletech. Musí být aktivovány na každém rádiu, které vlastníte, než začnete zachycovat informace. Kryptoklíče jsou automaticky zkopírovány do záložky "Poznámky", ze které je můžete zkopírovat a aktivovat v rádiu.</Czech>
+				<Czech>Antény na přátelských místech mohou zachytit nepřátelské rádiové signály v okruhu několika kilometrů, ale pouze v případě, že jste získali rádiové kryptoklíče. Kryptoklíče lze nalézt na vojenských taktických tabletech. Musí být aktivovány na každém rádiu, které vlastnš, než začneš zachycovat informace. Kryptoklíče jsou automaticky zkopírovány do záložky "Poznámky", ze které je můžeš zkopírovat a aktivovat v rádiu.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Антенны в дружественных локациях могут перехватывать вражеские радиосигналы в радиусе нескольких километров,но только при наличии радио криптоключей. Криптоключи можно найти на военных тактических планшетах. Они должны быть активированы на любом радио, которое у вас есть, прежде чем вы сможете начать перехватывать разведданные. Криптоключи автоматически копируются на вашу вкладку 'Заметки', откуда вы можете скопировать их и активировать на радио.</Russian>
 			</Key>
@@ -3447,7 +3447,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_CLAIMING_DESC">
 				<Original>To claim locations (outposts, bases, police stations) press [U] on your keyboard, then navigate to the 'Strategic' tab, and press claim. Some locations may require construction resources to claim. You do not have to carry them in your inventory. Instead look at any container or vehicle that holds enough construction resources, and open the in-game [U] menu, then use the 'Strategic' tab to claim the location.</Original>
-				<Czech>Chcete-li nárokovat umístění (základny, základny, policejní stanice), stiskněte na klávesnici tlačítko [U], přejděte na kartu Strategické a stiskněte tlačítko Nárok. Některá místa mohou vyžadovat stavební zdroje nárokovat. Nemusíte je nosit ve svém inventáři. Místo toho se podívejte na jakýkoli kontejner nebo vozidlo, které má dostatek stavebních zdrojů, a otevřete nabídku [U] ve hře a pak použijte kartu "Strategické" k získání místa.</Czech>
+				<Czech>Chcete-li nárokovat umístění (základny, základny, policejní stanice), stiskni na klávesnici tlačítko [U], přejdi na kartu Strategické a stiskni tlačítko Nárok. Některá místa mohou vyžadovat stavební zdroje nárokovat. Nemusš je nosit ve svém inventáři. Místo toho se podívej na jakýkoli kontejner nebo vozidlo, které má dostatek stavebních zdrojů, a otevřeš nabídku [U] ve hře a pak použij kartu "Strategické" k získání místa.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Чтобы требовать локацию (аванпосты, базы, полицейские участки), нажмите [U] на клавиатуре, затем перейдите на вкладку 'Стратегия' и нажмите 'Требовать'. В некоторых локациях могут потребоваться строительные ресурсы, чтобы претендовать на них. Вам не нужно носить их в своем инвентаре. Вместо этого посмотрите на любой контейнер или транспортное средство, которое содержит достаточно строительных ресурсов, и откройте внутриигровое меню [U], а затем используйте вкладку 'стратегия', чтобы претендовать на местоположение.</Russian>
 			</Key>
@@ -3471,7 +3471,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_BUILD_DESC">
 				<Original>The build menu is accessible at camps and other friendly locations. It has a user interface that explains all the available controls. There are two ways to open the build menu:\n\n• From your inventory: Uses build resources from your inventory to construct objects. Build resources must be either in your uniform, vest, or backpack.\n• From location: Uses build resources deposited at the location you are building at. They must be inside an Limited Arsenal or crate that is 'attached' to the garrison (=location).</Original>
-				<Czech>Menu buildu je přístupné v kempech a dalších přátelských místech. Má uživatelské rozhraní, které vysvětluje všechny dostupné ovládací prvky. Existují dva způsoby, jak otevřít nabídku stavění:\n\n• Z inventáře: Používá prostředky sestavení z inventáře k vytvoření objektů. Stavební zdroje musí být buď ve vaší uniformě, vestě nebo batohu.\n• Z místa: Používá stavební zdroje uložené v místě, kde stavíte. Musí být uvnitř omezeného arzenálu nebo bedny, která je "připojena" k posádce (= umístění).</Czech>
+				<Czech>Menu buildu je přístupné v kempech a dalších přátelských místech. Má uživatelské rozhraní, které vysvětluje všechny dostupné ovládací prvky. Existují dva způsoby, jak otevřít nabídku stavění:\n\n• Z inventáře: Používá prostředky sestavení z inventáře k vytvoření objektů. Stavební zdroje musí být buď ve vaší uniformě, vestě nebo batohu.\n• Z místa: Používá stavební zdroje uložené v místě, kde stavš. Musí být uvnitř omezeného arzenálu nebo bedny, která je "připojena" k posádce (= umístění).</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Меню строительства доступно в лагерях и других дружеских местах. Оно имеет пользовательский интерфейс, который объясняет все доступные элементы управления. Есть два способа открыть меню сборки:\n\n• Из вашего инвентаря: использует ресурсы сборки из вашего инвентаря для создания объектов. Ресурсы сборки должны быть либо в вашей униформе, жилете, либо в рюкзаке.\n• Из локации: использует ресурсы сборки, размещенные в том месте, где вы строите. Они должны находиться внутри Ограниченного Арсенала или ящика, который 'прикреплен' к гарнизону (=локации).</Russian>
 			</Key>
@@ -3483,7 +3483,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_ARSENAL_DESC">
 				<Original>The limited Arsenal is an alteration of the Arma 3 Arsenal. It has only a limited inventory for each item, and is the main interface to manage gathered weapons in the mission. All the cargo boxes you can create through the build menu have the Limited Arsenal enabled. Enemy cargo boxes use only the plain Arma 3 inventory. You can use the action on an Limited Arsenal constructed through the build menu to load items from a plain inventory crate into the Arsenal. This will load items into the Arsenal box's plain Arma 3 'Inventory'. Once you have done that, open the Limited Arsenal itself and press the appropriate button at the bottom of the Limited Arsenal interface.</Original>
-				<Czech>Omezený Arzenal je změna Arma 3 Arzenál. Má pouze omezený inventář pro každou položku, a je hlavním rozhraním pro správu shromážděných zbraní v misi. Všechny nákladní boxy, které můžete vytvořit prostřednictvím nabídky sestavení, mají omezený arzenál povolen. Nepřátelské nákladní boxy používají pouze prostý inventář Arma 3. Akci můžete použít na omezeném arzenálu vytvořeném prostřednictvím nabídky sestavení k načtení položek z obyčejné inventární bedny do arzenálu. Tím se načte položky do arzenalboxu plain Arma 3 'Inventory'. Jakmile to uděláte, otevřete samotný Omezený arzenál a stiskněte příslušné tlačítko ve spodní části rozhraní Omezeného arzenálu.</Czech>
+				<Czech>Omezený Arzenal je změna Arma 3 Arzenál. Má pouze omezený inventář pro každou položku, a je hlavním rozhraním pro správu shromážděných zbraní v misi. Všechny nákladní boxy, které můžeš vytvořit prostřednictvím nabídky sestavení, mají omezený arzenál povolen. Nepřátelské nákladní boxy používají pouze prostý inventář Arma 3. Akci můžeš použít na omezeném arzenálu vytvořeném prostřednictvím nabídky sestavení k načtení položek z obyčejné inventární bedny do arzenálu. Tím se načte položky do arzenalboxu plain Arma 3 'Inventory'. Jakmile to uděláte, otevřeš samotný Omezený arzenál a stiskni příslušné tlačítko ve spodní části rozhraní Omezeného arzenálu.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Ограниченный Арсенал - это переделка арсенала Arma 3. Он имеет только ограниченный инвентарь для каждого предмета и является основным интерфейсом для управления собранным оружием в миссии. Все грузовые ящики,которые вы можете создать через меню сборки, имеют Ограниченный Арсенал. В грузовых ящиках противника используется только обычный инвентарь Arma 3. Вы можете использовать действие на ограниченном арсенале, построенном через меню сборки, чтобы загрузить предметы из простого инвентарного ящика в Арсенал. Это загрузит предметы в 'Инвентарь' Arma 3 коробки 'Арсенал'. Как только вы это сделаете, откройте сам Ограниченный Арсенал и нажмите соответствующую кнопку в нижней части интерфейса Ограниченного Арсенала.</Russian>
 			</Key>
@@ -3495,7 +3495,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_CAPACITY_DESC">
 				<Original>Every location has an infantry capacity based on the number of buildings at the location. This number limits how many soldiers you can deploy at a location. You can not respawn at a location you own if it has no infantry capacity. When creating a new location, all the buildings at its territory are added to it. You should try to construct camps near existing houses to save resources. You can also build tents to increase the infantry capacity at a location.</Original>
-				<Czech>Každé místo má pěchotní kapacitu na základě počtu budov v místě. Toto číslo omezuje počet vojáků, které můžete na místě nasadit. Nemůžete se znovu podívat na místo, které vlastníte, pokud nemá žádnou pěchotní kapacitu. Při vytváření nového umístění jsou k němu přidány všechny budovy na jeho území. Měli byste se pokusit postavit tábory v blízkosti stávajících domů, abyste ušetřili zdroje. Můžete také postavit stany pro zvýšení pěchoty kapacity na místě.</Czech>
+				<Czech>Každé místo má pěchotní kapacitu na základě počtu budov v místě. Toto číslo omezuje počet vojáků, které můžeš na místě nasadit. Nemůžeš se znovu podívat na místo, které vlastnš, pokud nemá žádnou pěchotní kapacitu. Při vytváření nového umístění jsou k němu přidány všechny budovy na jeho území. Měli byste se pokusit postavit tábory v blízkosti stávajících domů, abyste ušetřili zdroje. Můžeš také postavit stany pro zvýšení pěchoty kapacity na místě.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Каждая локация имеет пехотный потенциал, основанный на количестве зданий в этой локации. Это число ограничивает количество солдат, которых вы можете разместить в одном месте. Вы не можете возродиться в принадлежащей вам локации, если в ней нет пехотного потенциала. При создании новой локации к ней добавляются все здания на ее территории. Вы должны попытаться построить лагеря рядом с существующими домами, чтобы сэкономить ресурсы. Вы также можете строить палатки, чтобы увеличить Пехотный Потенциал в локации.</Russian>
 			</Key>
@@ -3507,7 +3507,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_COMMAND_DESC">
 				<Original>This scenario provides a custom interface on the map screen to command your own forces. Friendly and enemy forces are both organised into 'garrisons'. Garrisons are groups of soldiers that can be commanded to move and attack enemy forces.\nAI groups operate autonomously and do not need specific orders to get into vehicles before traveling to a location. Click on a friendly garrison on your map, split it, then give an order to the now detached garrison.</Original>
-				<Czech>Tento scénář poskytuje vlastní rozhraní na obrazovce mapy příkaz vlastní síly. Přátelské i nepřátelské síly jsou organizovány do "posádek". Posádky jsou skupiny vojáků, kterým lze přikázat, aby se pohybovali a útočili na nepřátelské síly.\nAI skupiny operují autonomně a nepotřebují konkrétní rozkazy, aby se dostali do vozidel před cestou na místo. Klikněte na přátelskou posádku na mapě, rozdělte ji a pak dejte rozkaz nyní oddělené posádce.</Czech>
+				<Czech>Tento scénář poskytuje vlastní rozhraní na obrazovce mapy příkaz vlastní síly. Přátelské i nepřátelské síly jsou organizovány do "posádek". Posádky jsou skupiny vojáků, kterým lze přikázat, aby se pohybovali a útočili na nepřátelské síly.\nAI skupiny operují autonomně a nepotřebují konkrétní rozkazy, aby se dostali do vozidel před cestou na místo. Klikni na přátelskou posádku na mapě, rozdělte ji a pak dej rozkaz nyní oddělené posádce.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Этот сценарий предоставляет пользовательский интерфейс на экране карты для управления вашими собственными силами. Как дружественные, так и вражеские силы организованы в 'гарнизоны'. Гарнизоны - это группы солдат, которым можно приказать двигаться и атаковать силы противника.\nГруппы ИИ работают автономно и не нуждаются в конкретных приказах, чтобы сесть в транспортные средства перед поездкой в определенное место. Нажмите на дружественный гарнизон на вашей карте, разделите его и отдайте приказ отделившемуся гарнизону.</Russian>
 			</Key>
@@ -3519,7 +3519,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_SAVELOAD_DESC">
 				<Original>The scenario can save the game state with minimal detail. It saves the composition of all garrisons, but it does not save, for example, the position and health of units. All the data is saved in the user profile 'vars.arma3profile' and each save takes several megabytes. Arma 3 reads and writes to and from this file quite often, so keep the number of savegames to a minimum.\n\nYou should NOT maintain more than 10 savegames at a time!</Original>
-				<Czech>Scénář může uložit stav hry s minimálními detaily. Šetří složení všech posádek, ale neukládá například polohu a zdraví jednotek. Všechna data jsou uložena v profilu uživatele 'vars.arma3profile' a každé uložení trvá několik megabajtů. Arma 3 čte a píše do a z tohoto souboru poměrně často, takže udržujte počet savegames na minimum.\n\nMody by neměly udržovat více než 10 savegames najednou!</Czech>
+				<Czech>Scénář může uložit stav hry s minimálními detaily. Šetří složení všech posádek, ale neukládá například polohu a zdraví jednotek. Všechna data jsou uložena v profilu uživatele 'vars.arma3profile' a každé uložení trvá několik megabajtů. Arma 3 čte a píše do a z tohoto souboru poměrně často, takže udržuj počet savegames na minimum.\n\nMody by neměly udržovat více než 10 savegames najednou!</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>Сценарий может сохранить состояние игры с минимальной детализацией. Сохраняет состав всех гарнизонов, но не сохраняет, например, положение и здоровье юнитов. Все данные сохраняются в профиле пользователя 'vars.arma3profile', и каждое сохранение занимает несколько мегабайт. Arma 3 довольно часто читает и записывает в этот файл и из него, поэтому сведите количество сохраненных игр к минимуму.\n\nВы НЕ должны поддерживать более 10 сохранений одновременно!</Russian>
 			</Key>
@@ -3531,7 +3531,7 @@
 			</Key>
 			<Key ID="STR_TUTORP_ISSUES_DESC">
 				<Original>• Objects may not appear exactly where you place them or they are placed with a delay\n• To save vehicles, they must be attached to a friendly garrison. Some vehicles do not attach automatically. You can use the action 'Attach to Garrison' to manually attach them.\n• Vehicles may not always respawn at their old positions if parked close together, but at the nearest road. Do not place vehicles too close to one another, or too close to buildings.\n• AI units cannot transport static weapons and cargo boxes. Do not try to give a static weapon to a garrison and then give them a 'Move' order.\n• Arma 3's AI cannot drive properly, and often gets stuck. Infantry gets stuck in buildings.\n• The mission AI may teleport units in an attempt to get them unstuck.</Original>
-				<Czech>• Objekty se nemusí objevit přesně tam, kam je umístíte, nebo jsou umístěny se zpožděním\n• Pro uložení vozidel musí být vozidla připevněna k přátelské posádce. Některá vozidla se nepřipevňují automaticky. Akci "Připojit k posádce" můžete použít k jejich ručnímu připevnění.\n• Vozidla se nemusí vždy znovu rozjet na svých starých pozicích, pokud parkují blízko u sebe, ale na nejbližší silnici. Neumisťujte vozidla příliš blízko sebe nebo příliš blízko budov.\n• Jednotky AI nemohou přepravovat statické zbraně a nákladní boxy. Nepokoušejte se dát posádce statickou zbraň a pak jim dejte příkaz "Přesunout".\n• AI arma 3 nemůže správně řídit a často se zasekne. Pěchota uvízne v budovách.\n• Mise AI se může teleportovat jednotky ve snaze je odlepit.</Czech>
+				<Czech>• Objekty se nemusí objevit přesně tam, kam je umístš, nebo jsou umístěny se zpožděním\n• Pro uložení vozidel musí být vozidla připevněna k přátelské posádce. Některá vozidla se nepřipevňují automaticky. Akci "Připojit k posádce" můžeš použít k jejich ručnímu připevnění.\n• Vozidla se nemusí vždy znovu rozjet na svých starých pozicích, pokud parkují blízko u sebe, ale na nejbližší silnici. Neumisťuj vozidla příliš blízko sebe nebo příliš blízko budov.\n• Jednotky AI nemohou přepravovat statické zbraně a nákladní boxy. Nepokoušej se dát posádce statickou zbraň a pak jim dej příkaz "Přesunout".\n• AI arma 3 nemůže správně řídit a často se zasekne. Pěchota uvízne v budovách.\n• Mise AI se může teleportovat jednotky ve snaze je odlepit.</Czech>
 				<Chinesesimp></Chinesesimp>
 				<Russian>• Объекты могут появляться не совсем там, где вы их размещаете, или они помещаются с задержкой\n• Для сохранения техники их необходимо прикрепить к дружественному гарнизону. Некоторые автомобили не прикрепляются автоматически. Вы можете использовать действие 'Прикрепить к Гарнизону', чтобы прикрепить их вручную.\n• Транспортные средства не всегда могут возродиться на своих старых позициях, если они припаркованы близко друг к другу, а на ближайшей дороге. Не ставьте транспортные средства слишком близко друг к другу или слишком близко к зданиям.\n• Подразделения ИИ не могут транспортировать статическое оружие и грузовые ящики. Не пытайтесь дать гарнизону статическое оружие, а затем отдать ему приказ 'Двигаться'.\n• ИИ Arma 3 не может нормально управлять автомобилем и часто застревает. Пехота застревает в зданиях.\n• ИИ миссии может телепортировать юниты в попытке отклеить их.</Russian>
 			</Key>
@@ -3553,13 +3553,13 @@
 			</Key>
 			<Key ID="STR_ATG_ERROR_WRONG_UNIT">
 				<Original>Error: Wrong unit!\nPlease try again!</Original>
-				<Czech>Chyba: chyba jednotky!\nChcete akci zopakovat!</Czech>
+				<Czech>Chyba: chyba jednotky!\nZkus to znovu!</Czech>
 				<Chinesesimp>错误：错误的单位！\n请再试一次！</Chinesesimp>
 				<Russian>Ошибка: Неправильный юнит!\nПожалуйста, попробуйте еще раз!</Russian>
 			</Key>
 			<Key ID="STR_ATG_ERROR_NO_LOC">
 				<Original>Error: There is no location to attach the unit!\nPlease try again!</Original>
-				<Czech>Chyba: Není k dispozici žádné umístění pro připojení jednotky!\nChcete akci zopakovat!</Czech>
+				<Czech>Chyba: Není k dispozici žádné umístění pro připojení jednotky!\nChceš akci zopakovat!</Czech>
 				<Chinesesimp>错误：没有可指派单位的地点！\n请再试一次！</Chinesesimp>
 				<Russian>Ошибка: Нет места для прикрепления юнита!\nПожалуйста, попробуйте еще раз!</Russian>
 			</Key>
@@ -3577,19 +3577,19 @@
 			</Key>
 			<Key ID="STR_ATG_ERROR_NOT_FOUND">
 				<Original>Error: unit is not found on the server!\nPlease try again!</Original>
-				<Czech>Chyba: Jednotka nebyla na serveru nalezena!\nChcete akci zopakovat!</Czech>
+				<Czech>Chyba: Jednotka nebyla na serveru nalezena!\nChceš akci zopakovat!</Czech>
 				<Chinesesimp>错误：未能在服务器上找到此单位！\n请再试一次！</Chinesesimp>
 				<Russian>Ошибка: юнит не найден на сервере!\nПожалуйста, попробуйте еще раз!</Russian>
 			</Key>
 			<Key ID="STR_ATG_ERROR_WRONG_GARRISON">
 				<Original>Error: unit's garrison is wrong!\nPlease try again!</Original>
-				<Czech>Chyba: posádka jednotky!\nChcete akci zopakovat!</Czech>
+				<Czech>Chyba: posádka jednotky!\nChceš akci zopakovat!</Czech>
 				<Chinesesimp>错误：单位驻地错误！\n请再试一次！</Chinesesimp>
 				<Russian>Ошибка: неправильный юнит гарнизона!\nПожалуйста, попробуйте еще раз!</Russian>
 			</Key>
 			<Key ID="STR_ATG_ERROR_WRONG_DESTINATION">
 				<Original>Error: destination garrison is wrong!\nPlease try again!</Original>
-				<Czech>Chyba: cílová oblast!\nChcete akci zopakovat!</Czech>
+				<Czech>Chyba: cílová oblast!\nChceš akci zopakovat!</Czech>
 				<Chinesesimp>错误：目标驻地错误！\n请再试一次！</Chinesesimp>
 				<Russian>Ошибка: назначение гарнизона неверно!\nПожалуйста, попробуйте еще раз!</Russian>
 			</Key>
@@ -3607,7 +3607,7 @@
 			</Key>
 			<Key ID="STR_ATG_NOT_OWNED">
 				<Original>We don't own this unit!\nWe can't attach the unit to %1.\n</Original>
-				<Czech>Tuto jednotku nevlastníte!\nNemůžete připojit jednotku k %1.\n</Czech>
+				<Czech>Tuto jednotku nevlastnš!\nNemůžeš připojit jednotku k %1.\n</Czech>
 				<Chinesesimp>我们未拥有此单位！\n因此不能将该单位指派到%1。\n</Chinesesimp>
 				<Russian>Этот юнит не принадлежит нам!\nМы не можем присоединить юнита к %1.\n</Russian>
 			</Key>
@@ -3699,7 +3699,7 @@
 			</Key>
 			<Key ID="STR_BUIO_RADIO_DESC">
 				<Original>A small building with radio equipment. Intercepts enemy radio communications in the range of ~5km, if you have the radio cryptokey</Original>
-				<Czech>Malá budova s rádiovým zařízením. Zachycuje nepřátelskou rádiovou komunikaci v dosahu ~ 5km, pokud máte rádiový kryptoklíč</Czech>
+				<Czech>Malá budova s rádiovým zařízením. Zachycuje nepřátelskou rádiovou komunikaci v dosahu ~ 5km, pokud máš rádiový kryptoklíč</Czech>
 				<Chinesesimp>配有无线电设备的小屋。拥有无线电密钥时能够截获约5公里范围内的敌军无线电通讯。</Chinesesimp>
 				<Russian>Небольшое здание с радиоаппаратурой. Перехватывает радиосвязь противника на расстоянии ~ 5 км, если у вас есть радио криптоключ</Russian>
 			</Key>
@@ -3831,7 +3831,7 @@
 			</Key>
 			<Key ID="STR_BUI_DEMOLISH_NO_REFUND">
 				<Original>Demolish %1? This object cannot be refunded.</Original>
-				<Czech>Zbourat %1? Nelze vrátit.</Czech>
+				<Czech>Zbourat %1? Nedostaneš zpět suroviny.</Czech>
 				<Chinesesimp>拆除%1？该物体无法回收。</Chinesesimp>
 				<Russian>Снести %1? Этот объект не подлежит возврату.</Russian>
 			</Key>
@@ -3849,7 +3849,7 @@
 			</Key>
 			<Key ID="STR_BUI_REFUNDED">
 				<Original>Refunded %1 construction resources.</Original>
-				<Czech>Vráceny %1 stavebních surovin.</Czech>
+				<Czech>Vráceno %1 stavebních surovin.</Czech>
 				<Chinesesimp>已回收%1建筑物资。</Chinesesimp>
 				<Russian>Возвращено %1 строительных ресурсов.</Russian>
 			</Key>
@@ -3859,7 +3859,7 @@
 		<Container name="GarrisonCommand.h">
 			<Key ID="STR_COMMAND_MOVE">
 				<Original>Move</Original>
-				<Czech>Přesun</Czech>
+				<Czech>Přesunout</Czech>
 				<Chinesesimp>移动</Chinesesimp>
 				<Russian>Двигаться</Russian>
 			</Key>
@@ -3877,7 +3877,7 @@
 			</Key>
 			<Key ID="STR_COMMAND_PATROL">
 				<Original>Patrol (NYI)</Original>
-				<Czech>Hlídka (teď ne)</Czech>
+				<Czech>Hlídka (nedostupné)</Czech>
 				<Chinesesimp>巡逻（未实装）</Chinesesimp>
 				<Russian>Патруль (Не реализовано)</Russian>
 			</Key>
@@ -3897,13 +3897,13 @@
 			</Key>
 			<Key ID="STR_COMMAND_GIVE_ORDER">
 				<Original>Give order ...</Original>
-				<Czech>Přiřadit akci</Czech>
+				<Czech>Dát rozkaz</Czech>
 				<Chinesesimp>下达命令...</Chinesesimp>
 				<Russian>Отдать приказ ...</Russian>
 			</Key>
 			<Key ID="STR_COMMAND_CANCEL_ORDER">
 				<Original>Cancel order</Original>
-				<Czech>Zrušit akci</Czech>
+				<Czech>Zrušit rozkaz</Czech>
 				<Chinesesimp>取消命令</Chinesesimp>
 				<Russian>Отменить приказ</Russian>
 			</Key>
@@ -3928,7 +3928,7 @@
 			</Key>
 			<Key ID="STR_INT_ENDED">
 				<Original>SHOW ENDED:</Original>
-				<Czech>ZOBRAZIT UKONČENÝ:</Czech>
+				<Czech>ZOBRAZIT UKONČENÉ:</Czech>
 				<Chinesesimp>显示已结束的：</Chinesesimp>
 				<Russian>ПОКАЗАТЬ ЗАВЕРШЕНЫЕ:</Russian>
 			</Key>
@@ -3940,7 +3940,7 @@
 			</Key>
 			<Key ID="STR_INT_LIST">
 				<Original>IN LIST</Original>
-				<Czech>SEZNAM</Czech>
+				<Czech>V SEZNAMU</Czech>
 				<Chinesesimp>列表中</Chinesesimp>
 				<Russian>В СПИСКЕ</Russian>
 			</Key>
@@ -3952,7 +3952,7 @@
 			</Key>
 			<Key ID="STR_INT_LOC">
 				<Original>SHOW LOCATIONS</Original>
-				<Czech>ZOBRAZIT LOKACE</Czech>
+				<Czech>ZOBRAZIT MÍSTA</Czech>
 				<Chinesesimp>显示地点</Chinesesimp>
 				<Russian>ПОКАЗАТЬ ЛОКАЦИИ</Russian>
 			</Key>
@@ -3976,7 +3976,7 @@
 			</Key>
 			<Key ID="STR_INT_DESC">
 				<Original>&lt;t color='#222222' font='EtelkaMonospacePro' align='left'&gt;Select a single intel item to view a detailed description.&lt;/t&gt;</Original>
-				<Czech>&lt;t color='#222222' font='EtelkaMonospacePro' align='left'&gt;Chcete-li zobrazit podrobný popis, vyberte jednu položku intelu.&lt;/t&gt;</Czech>
+				<Czech>&lt;t color='#222222' font='EtelkaMonospacePro' align='left'&gt;Chceš-li zobrazit podrobný popis informace, klikni na ní.&lt;/t&gt;</Czech>
 				<Chinesesimp>&lt;t color='#222222' font='EtelkaMonospacePro' align='left'&gt;选择一项情报物品获取详情。&lt;/t&gt;</Chinesesimp>
 				<Russian>&lt;t color='#222222' font='EtelkaMonospacePro' align='left'&gt;Выберите один элемент Информации, чтобы просмотреть подробное описание.&lt;/t&gt;</Russian>
 			</Key>
@@ -3994,19 +3994,19 @@
 			</Key>
 			<Key ID="STR_INT_1_AT_2">
 				<Original>%1 at %2.</Original>
-				<Czech>%1 při %2.</Czech>
+				<Czech>%1 na %2.</Czech>
 				<Chinesesimp>%1位于%2。</Chinesesimp>
 				<Russian>%1 в %2.</Russian>
 			</Key>
 			<Key ID="STR_INT_LOC_DISCOVERED">
 				<Original>LOCATION DISCOVERED</Original>
-				<Czech>ZJIŠTĚNÁ LOKALITA</Czech>
+				<Czech>ZJIŠTNÉ MÍSTO</Czech>
 				<Chinesesimp>已发现地点</Chinesesimp>
 				<Russian>ОБНАРУЖЕНА ЛОКАЦИЯ</Russian>
 			</Key>
 			<Key ID="STR_INT_LOC_INTEL_UPDATED">
 				<Original>LOCATION INTEL UPDATED</Original>
-				<Czech>INTEL AKTUALIZOVÁN</Czech>
+				<Czech>AKTUALIZACE POLOHY INFORMACE</Czech>
 				<Chinesesimp>地点情报更新</Chinesesimp>
 				<Russian>ОБНОВЛЕНИЕ ДАННЫХ О ЛОКАЦИИ</Russian>
 			</Key>
@@ -4030,7 +4030,7 @@
 			</Key>
 			<Key ID="STR_INT_STARTED">
 				<Original>started %1 ago</Original>
-				<Czech>spuštěno %1 před</Czech>
+				<Czech>zahájeno před %1</Czech>
 				<Chinesesimp>于 %1 前开始</Chinesesimp>
 				<Russian>начато %1 назад</Russian>
 			</Key>
@@ -4042,37 +4042,37 @@
 			</Key>
 			<Key ID="STR_INT_MIN_AGO">
 				<Original>, %1 min. ago</Original>
-				<Czech>, %1 min. před</Czech>
+				<Czech>, před %1 min.</Czech>
 				<Chinesesimp>，%1分钟以前</Chinesesimp>
 				<Russian>, %1 мин. назад</Russian>
 			</Key>
 			<Key ID="STR_INT_FOUND_IN_TABLET">
 				<Original>INTEL FOUND IN TABLET</Original>
-				<Czech>INTEL NALEZENO V TABLETU</Czech>
+				<Czech>INFORMACE NALEZENA V TABLETU</Czech>
 				<Chinesesimp>平板中发现情报</Chinesesimp>
 				<Russian>ИНФО НАЙДЕНА В ПЛАНШЕТЕ</Russian>
 			</Key>
 			<Key ID="STR_INT_FOUND_BY_RADIO">
 				<Original>INTEL INTERCEPTED BY RADIO</Original>
-				<Czech>INTEL ZACHYCENÝ RÁDIEM</Czech>
+				<Czech>INFORMACE ZACHYCENÁ RÁDIEM</Czech>
 				<Chinesesimp>无线电截获情报</Chinesesimp>
 				<Russian>ИНФО ПЕРЕХВАЧЕННАЯ ПО РАДИО</Russian>
 			</Key>
 			<Key ID="STR_INT_FOUND_BY_CIV">
 				<Original>INTEL INTERCEPTED BY CITIZENS</Original>
-				<Czech>INFORMACE ZACHYCENÝ OBČANY</Czech>
+				<Czech>INFORMACE ZACHYCENA OBČANY</Czech>
 				<Chinesesimp>平民截获情报</Chinesesimp>
 				<Russian>РАЗВЕДДАННЫЕ ПОЛУЧЕНЫ ОТ ГРАЖДАНСКИХ</Russian>
 			</Key>
 			<Key ID="STR_INT_FOUND">
 				<Original>INTEL INTERCEPTED</Original>
-				<Czech>INFORMACE ZACHYCENY</Czech>
+				<Czech>INFORMACE ZACHYCENA</Czech>
 				<Chinesesimp>截获情报</Chinesesimp>
 				<Russian>РАЗВЕДДАННЫЕ ПЕРЕХВАЧЕНЫ</Russian>
 			</Key>
 			<Key ID="STR_INT_REMOVED">
 				<Original>Removed intel: %1</Original>
-				<Czech>Odebráno intel: %1</Czech>
+				<Czech>Odebrána informace: %1</Czech>
 				<Chinesesimp>移除情报：%1</Chinesesimp>
 				<Russian>Удалена информация: %1</Russian>
 			</Key>
@@ -4092,13 +4092,13 @@
 		<Container name="LocationSelectedMenu.h">
 			<Key ID="STR_UNIT_RECUIT">
 				<Original>Recruit</Original>
-				<Czech>Nábor</Czech>
+				<Czech>Rekrutovat</Czech>
 				<Chinesesimp>招募</Chinesesimp>
 				<Russian>Нанять</Russian>
 			</Key>
 			<Key ID="STR_UNIT_DISBAND">
 				<Original>Disband &lt;NYI&gt;</Original>
-				<Czech>Rozpustit &lt;teď ne&gt;</Czech>
+				<Czech>Rozpustit &lt;nedosupné&gt;</Czech>
 				<Chinesesimp>解散 &lt;未实装&gt;</Chinesesimp>
 				<Russian>Расформировать &lt;Еще не реализовано&gt;</Russian>
 			</Key>
@@ -4112,7 +4112,7 @@
 			</Key>
 			<Key ID="STR_LIST_ADD_MEMBER">
 				<Original>Add as member</Original>
-				<Czech>Přidat člena</Czech>
+				<Czech>Přidat jako člena</Czech>
 				<Chinesesimp>添加为成员</Chinesesimp>
 				<Russian>Добавить как участника</Russian>
 			</Key>
@@ -4122,7 +4122,7 @@
 		<Container name="GarrisonSplitDialog.h">
 			<Key ID="STR_GAR_SPLIT_DESC">
 				<Original>Hint: double-click row to move a unit</Original>
-				<Czech>Tip: Kliknutím na řádek přesunete jednotku</Czech>
+				<Czech>Tip: Kliknutím na řádek přesuneš jednotku</Czech>
 				<Chinesesimp>提示：双击来移动单位</Chinesesimp>
 				<Russian>Подсказка: дважды щелкните строку, чтобы переместить юнита</Russian>
 			</Key>
@@ -4146,7 +4146,7 @@
 			</Key>
 			<Key ID="STR_GAR_SEATS">
 				<Original>Cargo seats: 666</Original>
-				<Czech>Počet míst: 666</Czech>
+				<Czech>Počet sedadel: 666</Czech>
 				<Chinesesimp>载具座位：666</Chinesesimp>
 				<Russian>Количество мест: 666</Russian>
 			</Key>
@@ -4204,7 +4204,7 @@
 			</Key>
 			<Key ID="STR_CMUI_TRANSPORT">
 				<Original>Transport</Original>
-				<Czech>Transport</Czech>
+				<Czech>Doprava</Czech>
 				<Chinesesimp>运输载具</Chinesesimp>
 				<Russian>Транспорт</Russian>
 			</Key>
@@ -4228,7 +4228,7 @@
 			</Key>
 			<Key ID="STR_CMUI_MAX_INFANTRY">
 				<Original>MAX INFANTRY</Original>
-				<Czech>MAXIMÁLNÍ POČET JEDNOTEK</Czech>
+				<Czech>MAXIMÁLNĚ JEDNOTEK</Czech>
 				<Chinesesimp>最大步兵数</Chinesesimp>
 				<Russian>МАКС.ПЕХОТА</Russian>
 			</Key>
@@ -4252,7 +4252,7 @@
 			</Key>
 			<Key ID="STR_CMUI_IND">
 				<Original>IND</Original>
-				<Czech>DO</Czech>
+				<Czech>NEZAVISLÝ</Czech>
 				<Chinesesimp>独立方</Chinesesimp>
 				<Russian>НЕЗАВИСИМЫЕ</Russian>
 			</Key>
@@ -4294,125 +4294,126 @@
 			</Key>
 			<Key ID="STR_CMUI_NOT_INITIALIZED">
 				<Original>Game not initialized: Press U and create or load a game.</Original>
-				<Czech>Hra není načtená: Stiskněte tlačítko a vytvořit nebo načíst hru.</Czech>
+				<Czech>Hra není načtená: Stiskni tlačítko U a vytvoř nebo načti hru.</Czech>
 				<Chinesesimp>游戏尚未初始化：按U并创建或读取游戏。</Chinesesimp>
 				<Russian>Игра не инициализирована: Нажмите U и создайте или загрузите игру.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_NOT_INITIALIZED_ADMIN">
 				<Original>Game not initialized: Wait for admin to create or load a game.</Original>
-				<Czech>Hra není vytvořená: Počkejte, až admin vytvoří nebo načte hru.</Czech>
+				<Czech>Hra není vytvořená: Počkej, až ji admin vytvoří nebo načte hru.</Czech>
 				<Chinesesimp>游戏尚未初始化：等待管理员创建或读取游戏。</Chinesesimp>
 				<Russian>Игра не инициализирована: Подождите, пока администратор создаст или загрузит игру.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_GARRISON_ORDER_HINT">
 				<Original>Select the order to give to this garrison.</Original>
-				<Czech>Vyberte posádku.</Czech>
+				<Czech>Vyber posádku, které chceš rozkazovat.</Czech>
 				<Chinesesimp>选择给这个驻地下达的命令。</Chinesesimp>
 				<Russian>Выберите, какой приказ отдать этому гарнизону.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_DESTINATION_HINT">
 				<Original>Left-click on the map to set destination.</Original>
-				<Czech>Kliknutím levým tlačítkem myši na mapu nastavte cíl.</Czech>
+				<Czech>Kliknutím levým tlačítkem myši na mapu nastav cíl.</Czech>
 				<Chinesesimp>在地图上左键点击设立目的地。</Chinesesimp>
 				<Russian>Щелкните левой кнопкой мыши на карте, чтобы указать пункт назначения.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_SPLIT_HINT">
 				<Original>Choose composition of the new garrison on the right column and push the 'Split' button.</Original>
-				<Czech>Zvolte složení nové posádky v pravém sloupci a stiskněte tlačítko "Rozdělit".</Czech>
+				<Czech>Zvol složení nové posádky v pravém sloupci a stiskni tlačítko "Rozdělit".</Czech>
 				<Chinesesimp>通过右侧列表调整新驻地的编制并点击‘拆分’按钮。</Chinesesimp>
 				<Russian>В правом столбце выберите состав нового гарнизона и нажмите кнопку 'Разделить'.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_GARRISON_ACTION_HINT">
 				<Original>Use the menu to perform actions on the selected garrison.</Original>
-				<Czech>Pomocí nabídky můžete provádět akce na vybrané posádce.</Czech>
+				<Czech>Pomocí nabídky můžeš provádět akce na vybrané posádce.</Czech>
 				<Chinesesimp>用菜单控制所选驻地的行动。</Chinesesimp>
 				<Russian>Используйте меню, чтобы выполнять действия с выбранным гарнизоном.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_MOVE_MARKER">
 				<Original>MOVE</Original>
-				<Czech>Přesun</Czech>
+				<Czech>PŘEMÍSTIT</Czech>
 				<Chinesesimp>移动</Chinesesimp>
 				<Russian>ДВИГАТЬСЯ</Russian>
 			</Key>
 			<Key ID="STR_CMUI_CAPTURE_MARKER">
 				<Original>CAPTURE</Original>
-				<Czech>Obsadit</Czech>
+				<Czech>OBSADIT</Czech>
 				<Chinesesimp>占领</Chinesesimp>
 				<Russian>ЗАХВАТИТЬ</Russian>
 			</Key>
 			<Key ID="STR_CMUI_ATTACK_MARKER">
 				<Original>ATTACK</Original>
-				<Czech>Útočit</Czech>
+				<Czech>ZAUTOČIT</Czech>
 				<Chinesesimp>进攻</Chinesesimp>
 				<Russian>АТАКА</Russian>
 			</Key>
 			<Key ID="STR_CMUI_REINFORCE_MARKER">
 				<Original>REINFORCE</Original>
-				<Czech>Posílit</Czech>
+				<Czech>POSÍLIT</Czech>
 				<Chinesesimp>增援</Chinesesimp>
 				<Russian>ПОДМОГА</Russian>
 			</Key>
 			<Key ID="STR_CMUI_SUPPLY_MARKER">
 				<Original>SUPPLY</Original>
-				<Czech>Suroviny</Czech>
+				<Czech>ZÁSOBY</Czech>
 				<Chinesesimp>补给</Chinesesimp>
 				<Russian>ПОСТАВКА</Russian>
 			</Key>
 			<Key ID="STR_CMUI_PATROL_MARKER">
 				<Original>PATROL</Original>
-				<Czech>Hlídka</Czech>
+				<Czech>HLÍDKA</Czech>
 				<Chinesesimp>巡逻</Chinesesimp>
 				<Russian>ПАТРУЛЬ</Russian>
 			</Key>
 			<Key ID="STR_CMUI_MOVE_ORDER">
 				<Original>Giving a MOVE order to the garrison.</Original>
-				<Czech>Přesunout</Czech>
+				<Czech>Vydání rozkazu k přesunu</Czech>
 				<Chinesesimp>给驻地下达移动命令。</Chinesesimp>
 				<Russian>Отдать гарнизону приказ ДВИГАТЬСЯ.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_ATTACK_ORDER">
 				<Original>Giving an ATTACK order to the garrison.</Original>
-				<Czech>Zaútočit</Czech>
+				<Czech>Vydání rozkazu k útoku</Czech>
 				<Chinesesimp>给驻地下达进攻命令。</Chinesesimp>
 				<Russian>Отдавая гарнизону приказ АТАКОВАТЬ.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_REINFORCE_ORDER">
 				<Original>Giving a REINFORCE order to the garrison.</Original>
-				<Czech>Zabrat nebo posílit</Czech>
+				<Czech>Vydání rozkazu k posílení</Czech>
 				<Chinesesimp>给驻地下达增援命令。</Chinesesimp>
 				<Russian>Отдать гарнизону приказ ПОДКРЕПЛЕНИЕ.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_NYI_ORDER">
 				<Original>This garrison order is not yet implemented.</Original>
-				<Czech>Tato posádka ještě není implementována.</Czech>
+				<Czech>Tento rozkaz pro posádku ještě není implementován.</Czech>
 				<Chinesesimp>该驻地命令尚未实装。</Chinesesimp>
 				<Russian>Этот гарнизонный приказ еще не выполнил.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_NO_PERMISSION_TO_GARRISON">
 				<Original>You don't have permissions to command garrisons.</Original>
-				<Czech>Nemáte oprávnění k velení posádky.</Czech>
+				<Czech>Nemáš oprávnění k velení posádky.</Czech>
 				<Chinesesimp>你没有指挥驻地的权限。</Chinesesimp>
 				<Russian>У вас нет разрешения на командование гарнизонами.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_NYI">
 				<Original>NYI</Original>
-				<Czech>Ne teď</Czech>
+				<Czech>nelze</Czech>
 				<Chinesesimp>未实装</Chinesesimp>
 				<Russian>Еще не реализовано</Russian>
 			</Key>
 			<Key ID="STR_CMUI_CANCEL_ORDER">
 				<Original>Cancelling the current order of the garrison.</Original>
-				<Czech>Ne teď</Czech>
+				<Czech>Rušení aktualního rozkazu.</Czech>
 				<Chinesesimp>取消当前驻地命令。</Chinesesimp>
 				<Russian>Отмена действующего приказа гарнизона.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_CANT_COMMAND_ATTACHED_GARRISON">
-				<Original>You must split garrison first.</Original>\
+				<Original>You must split garrison first.</Original>
+				<Czech>Musíš prvně tozdělit posádku</Czech>
 				<Russian>Сначала нужно разделить гарнизон.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_NYI_HINT">
 				<Original>Not yet implemented...</Original>
-				<Czech>Dosud není načteno</Czech>
+				<Czech>Dosud není implementováno</Czech>
 				<Chinesesimp>尚未实装...</Chinesesimp>
 				<Russian>Еще не реализовано...</Russian>
 			</Key>
@@ -4430,61 +4431,61 @@
 			</Key>
 			<Key ID="STR_CMUI_RESPAWN">
 				<Original>RESPAWN</Original>
-				<Czech>OŽIVENÍ</Czech>
+				<Czech>OŽIVIT</Czech>
 				<Chinesesimp>重生</Chinesesimp>
 				<Russian>ВОЗРОЖДЕНИЕ</Russian>
 			</Key>
 			<Key ID="STR_CMUI_CANT_RESPAWN_NOT_INITIALIZED">
 				<Original>You can not respawn because the game mode is not initialized yet.</Original>
-				<Czech>Nemůžete se oživit hra ještě není načtená.</Czech>
+				<Czech>Nemůžeš se oživit hra ještě není načtená.</Czech>
 				<Chinesesimp>由于游戏模式尚未初始化，你无法重生。</Chinesesimp>
 				<Russian>Вы не можете возродиться, потому что игровой режим еще не инициализирован.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_SELECT_RESPAWN_POINT">
 				<Original>Select a respawn point</Original>
-				<Czech>Vyberte místo oživení</Czech>
+				<Czech>Vyber si místo oživení</Czech>
 				<Chinesesimp>选择一个重生点</Chinesesimp>
 				<Russian>Выберите точку возрождения</Russian>
 			</Key>
 			<Key ID="STR_CMUI_RESAPWN_DISABLED">
 				<Original>Respawn is disabled here.</Original>
-				<Czech>Ožívení je zde zakázano.</Czech>
+				<Czech>Ožívení zde není povoleno.</Czech>
 				<Chinesesimp>无法在此重生。</Chinesesimp>
 				<Russian>Возрождение здесь отключено.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_RESPAWN_DISABLED_NEAR_ENY">
 				<Original>You can not respawn here because there are enemies nearby.</Original>
-				<Czech>Nelze se oživit jsou zde nepřátelé.</Czech>
+				<Czech>Nemůžeš se zde oživit, v okolí jsou nepřátelé.</Czech>
 				<Chinesesimp>你无法在附近有敌人的重生点上重生。</Chinesesimp>
 				<Russian>Вы не можете здесь возродиться, потому что поблизости есть враги.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_RESTORE_GEARS">
 				<Original>You can restore here with your saved gear.</Original>
-				<Czech>Ožívíte se s posledním uložením vybavením.</Czech>
+				<Czech>Ožívíš se s posledním uložením vybavením.</Czech>
 				<Chinesesimp>你可以带着已存装备一起在此归位。</Chinesesimp>
 				<Russian>Вы можете восстановить здесь свое сохраненное снаряжение.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_CAN_RESPAWN">
 				<Original>You can respawn here.</Original>
-				<Czech>Zde se nemůžete oživit.</Czech>
+				<Czech>Zde se nemůžeš oživit.</Czech>
 				<Chinesesimp>你可以在此重生。</Chinesesimp>
 				<Russian>Вы можете возродиться здесь.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_RESTORE_GEARS_LAST_POSITION">
 				<Original>You can restore at your last position with your saved gear.</Original>
-				<Czech>Uložit pozici s vybavením.</Czech>
+				<Czech>Můžeš se oživit na poslední lokaci s uloženým vybavením.</Czech>
 				<Chinesesimp>你可以带着已存装备归位到最后所处地点。</Chinesesimp>
 				<Russian>Вы можете восстановить свою последнюю позицию с сохраненным снаряжением.</Russian>
 			</Key>
 			<Key ID="STR_CMUI_ENY_CONTROL">
 				<Original>Enemy control</Original>
-				<Czech>Nepřátelské jednotky</Czech>
+				<Czech>Ovládáno nepřáteli</Czech>
 				<Chinesesimp>敌军实控</Chinesesimp>
 				<Russian>Вражеский контроль</Russian>
 			</Key>
 			<Key ID="STR_CMUI_FRIENDLY_CONTROL">
 				<Original>Friendly control</Original>
-				<Czech>Spřátelené jednotky</Czech>
+				<Czech>Ovladáno rebely</Czech>
 				<Chinesesimp>友军实控</Chinesesimp>
 				<Russian>Дружеский контроль</Russian>
 			</Key>
@@ -4514,43 +4515,43 @@
 			</Key>
 			<Key ID="STR_GM_PRESS_U_TO_SETUP">
 				<Original>Press [U] to setup the mission or load a saved game</Original>
-				<Czech>Stisknutím tlačítka [U] nastavte misi nebo načtěte uloženou hru</Czech>
+				<Czech>Stisknutím tlačítka [U] nastav misi nebo načti uloženou hru</Czech>
 				<Chinesesimp>按[U]设置任务或读取一个存档</Chinesesimp>
 				<Russian>Нажмите [U], чтобы настроить миссию или загрузить сохраненную игру</Russian>
 			</Key>
 			<Key ID="STR_GM_SAVING_NOW">
 				<Original>&lt;t size='4' color='#FF7733'&gt;PLEASE WAIT&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;SAVING NOW&lt;/t&gt;</Original>
-				<Czech>&lt;t size='4' color='#FF7733'&gt;POČKEJTE PROSÍM&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;NOVÉ UKLÁDÁNÍ&lt;/t&gt;</Czech>
+				<Czech>&lt;t size='4' color='#FF7733'&gt;POČKEj PROSÍM&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;NOVÉ UKLÁDÁNÍ&lt;/t&gt;</Czech>
 				<Chinesesimp>>&lt;t size='4' color='#FF7733'&gt;请稍等&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;保存中&lt;/t&gt;</Chinesesimp>
 				<Russian>&lt;t size='4' color='#FF7733'&gt;ПОЖАЛУЙСТА ПОДОЖДИТЕ&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;СОХРАНИТЬ СЕЙЧАС&lt;/t&gt;</Russian>
 			</Key>
 			<Key ID="STR_GM_SAVE_IN_PROGRESS">
 				<Original>Game state save is in progress...</Original>
-				<Czech>Hra ukládání probíhá ...</Czech>
+				<Czech>Ukládání hry probíhá ...</Czech>
 				<Chinesesimp>游戏状态存档中...</Chinesesimp>
 				<Russian>Идет сохранение состояния игры ...</Russian>
 			</Key>
 			<Key ID="STR_GM_SAVED">
 				<Original>Game state has been saved!</Original>
-				<Czech>Stav hry byl Uložen!</Czech>
+				<Czech>Hra byla uložena!</Czech>
 				<Chinesesimp>游戏状态已保存！</Chinesesimp>
 				<Russian>Состояние игры сохранено!</Russian>
 			</Key>
 			<Key ID="STR_GM_SAVE_COMPLETE">
 				<Original>&lt;t size='4' color='#77FF77'&gt;SAVE COMPLETE&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;CARRY ON...&lt;/t&gt;</Original>
-				<Czech>&lt;t size='4' color='#77FF77'&gt;ULOŽENÍ DOKONČENO&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;POKRAČUJTE...&lt;/t&gt;</Czech>
+				<Czech>&lt;t size='4' color='#77FF77'&gt;ULOŽENÍ DOKONČENO&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;POKRAČUj...&lt;/t&gt;</Czech>
 				<Chinesesimp>&lt;t size='4' color='#77FF77'&gt;保存完成&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;不要停下来啊...&lt;/t&gt;</Chinesesimp>
 				<Russian>&lt;t size='4' color='#77FF77'&gt;СОХРАНЕНО&lt;/t&gt;&lt;br/&gt;&lt;t size='6' color='#FFFFFF'&gt;ПРОДОЛЖИТЬ...&lt;/t&gt;</Russian>
 			</Key>
 			<Key ID="STR_GM_GAME_LOADING">
 				<Original>Game load is in progress...</Original>
-				<Czech>Probíhá načítání ...</Czech>
+				<Czech>Probíhá načítání rozehrané hry...</Czech>
 				<Chinesesimp>游戏存档加载中...</Chinesesimp>
 				<Russian>Идет загрузка игры ...</Russian>
 			</Key>
 			<Key ID="STR_GM_GAME_LOADED">
 				<Original>Game has been loaded. You should respawn now.</Original>
-				<Czech>Hra byla načtena. Vyber si místo oživení..</Czech>
+				<Czech>Hra byla načtena. Můžeš se oživit..</Czech>
 				<Chinesesimp>游戏已读取。你可以重生了。</Chinesesimp>
 				<Russian>Игра загружена. Вы должны возродиться сейчас.</Russian>
 			</Key>
@@ -4562,13 +4563,13 @@
 			</Key>
 			<Key ID="STR_GM_INITIALIZING">
 				<Original>Game is being initialized. It can take up to several minutes.</Original>
-				<Czech>Hra se ukládá. Může to trvat až několik minut.</Czech>
+				<Czech>Hra se inicializuje. Může to trvat pár minut.</Czech>
 				<Chinesesimp>游戏正在初始化。这可能需要数分钟。</Chinesesimp>
 				<Russian>Игра инициализируется. Это может занять до нескольких минут.</Russian>
 			</Key>
 			<Key ID="STR_GM_INITIALIZED">
 				<Original>Game mode initialization is complete. You should respawn now.</Original>
-				<Czech>Ukládání je dokončena. Pro příští napojení vybavení uloženo.</Czech>
+				<Czech>Inicializace hry je dokončena. Můžeš se oživit.</Czech>
 				<Chinesesimp>游戏模式初始化完毕。你可以重生了。</Chinesesimp>
 				<Russian>Инициализация игрового режима завершена. Ты должен возродиться сейчас.</Russian>
 			</Key>
@@ -4600,13 +4601,13 @@
 		<Container name="GarrisonSplitDialog">
 			<Key ID="STR_GSD_REQUEST_IN_PROGRESS">
 				<Original>Another request is in progress!</Original>
-				<Czech>Žádost probíhá!</Czech>
+				<Czech>Jiná žádost probíhá!</Czech>
 				<Chinesesimp>已有请求进行中！</Chinesesimp>
 				<Russian>Выполняется еще один запрос!</Russian>
 			</Key>
 			<Key ID="STR_GSD_NO_UNIT_IN_RIGHT">
 				<Original>You must move some units to the right first!</Original>
-				<Czech>Nejprve musíte přesunout několik jednotek!</Czech>
+				<Czech>Nejprve musš přesunout několik jednotek!</Czech>
 				<Chinesesimp>你必须先移动一些单位到右侧！</Chinesesimp>
 				<Russian>Сначала вы должны переместить несколько юнитов вправо!</Russian>
 			</Key>
@@ -4630,7 +4631,7 @@
 			</Key>
 			<Key ID="STR_GSD_CARGO_NUM">
 				<Original>Cargo seats: %1</Original>
-				<Czech>počet míst: %1</Czech>
+				<Czech>Počet sedadel: %1</Czech>
 				<Chinesesimp>载具座位：%1</Chinesesimp>
 				<Russian>Грузовых мест: %1</Russian>
 			</Key>
@@ -4658,13 +4659,13 @@
 			</Key>
 			<Key ID="STR_NOTI_CRYPTOKEY_STORED">
 				<Original>Cryptokeys are stored in your notes tab</Original>
-				<Czech>Kryptoklíče jsou uloženy v poznámky</Czech>
+				<Czech>Kryptoklíče jsou uloženy v poznámkách</Czech>
 				<Chinesesimp>密钥保存在你的笔记选单中</Chinesesimp>
 				<Russian>Криптоключ сохраняется в меню заметок</Russian>
 			</Key>
 			<Key ID="STR_NOTI_MORE_OTHERS">
 				<Original>%1 and %2 others...</Original>
-				<Czech>%1 a %2 dalších...</Czech>
+				<Czech>%1 a další %2 ...</Czech>
 				<Chinesesimp>%1及其它%2项...</Chinesesimp>
 				<Russian>%1 и %2 другие...</Russian>
 			</Key>
@@ -4672,7 +4673,7 @@
 		<Container name="NotificationFactory.sqf">
 			<Key ID="STR_NOTI_CHECK_MAP">
 				<Original>Check your map for more info</Original>
-				<Czech>Podívejte se na mapu pro více informací</Czech>
+				<Czech>Podívej se na mapu pro více informací</Czech>
 				<Chinesesimp>在地图中查询更多信息</Chinesesimp>
 				<Russian>Проверьте свою карту для получения дополнительной информации</Russian>
 			</Key>
@@ -4684,19 +4685,19 @@
 			</Key>
 			<Key ID="STR_NOTI_ACTIVATE_AT_RADIO">
 				<Original>Activate it at a friendly radio station!\n%1</Original>
-				<Czech>Aktivujte ji na přátelské rozhlasové stanici!\n%1</Czech>
+				<Czech>Aktivuj ji na přátelské rozhlasové stanici!\n%1</Czech>
 				<Chinesesimp>在友军无线电站中激活！\n%1</Chinesesimp>
 				<Russian>Активируйте его на дружественной радиостанции!\n%1</Russian>
 			</Key>
 			<Key ID="STR_NOTI_CHECK_NOTES">
 				<Original>Check notes in the in-game menu</Original>
-				<Czech>Podívejte se na poznámky v nabídce hry</Czech>
+				<Czech>Podívej se na poznámky v nabídce hry</Czech>
 				<Chinesesimp>查询游戏内菜单中的笔记</Chinesesimp>
 				<Russian>Проверьте заметки в игровом меню</Russian>
 			</Key>
 			<Key ID="STR_NOTI_SYSTEM">
 				<Original>SYSTEM</Original>
-				<Czech>SYSTEM</Czech>
+				<Czech>SYSTÉM</Czech>
 				<Chinesesimp>系统</Chinesesimp>
 				<Russian>СИСТЕМА</Russian>
 			</Key>
@@ -4722,7 +4723,7 @@
 		<Container name="SupplyConvoyCmdrAction.sqf">
 			<Key ID="STR_NOTI_BUILDING_SUPPLIES">
 				<Original>Building Supplies</Original>
-				<Czech>Stavební suroviny</Czech>
+				<Czech>Stavební zásoby</Czech>
 				<Chinesesimp>建筑物资</Chinesesimp>
 				<Russian>Стройматериалы</Russian>
 			</Key>
@@ -4746,13 +4747,13 @@
 			</Key>
 			<Key ID="STR_NOTI_MISC">
 				<Original>Miscellaneous</Original>
-				<Czech>Různých</Czech>
+				<Czech>Různé</Czech>
 				<Chinesesimp>其它物资</Chinesesimp>
 				<Russian>Разное</Russian>
 			</Key>
 			<Key ID="STR_NOTI_DEFAULT">
 				<Original>Supplies</Original>
-				<Czech>Suroviny</Czech>
+				<Czech>Zásoby</Czech>
 				<Chinesesimp>物资</Chinesesimp>
 				<Russian>Припасы</Russian>
 			</Key>
@@ -4820,13 +4821,13 @@
 		<Container name="RadioKeyDialog.sqf">
 			<Key ID="STR_RKD_MANAGE_KEYS">
 				<Original>Manage radio cryptokey</Original>
-				<Czech>Správa rádiového kryptoklíče</Czech>
+				<Czech>Správa rádiových kryptoklíčů</Czech>
 				<Chinesesimp>管理无线电密钥</Chinesesimp>
 				<Russian>Управление радио ключами</Russian>
 			</Key>
 			<Key ID="STR_RKD_HINT">
 				<Original>Hint: Check enemy tablets to find their radio cryptokeys</Original>
-				<Czech>Tip: Zkontrolujte nepřátelské tablety, abyste našli rádiové kryptoklíče</Czech>
+				<Czech>Tip: Zkontroluj nepřátelské tablety, abyste našli rádiové kryptoklíče</Czech>
 				<Chinesesimp>提示：通过敌军平板获取他们的无线电密钥</Chinesesimp>
 				<Russian>Подсказка: проверяйте планшеты врага, чтобы найти их радиокриптоключи</Russian>
 			</Key>
@@ -4846,7 +4847,7 @@
 			</Key>
 			<Key ID="STR_RKD_ENTER">
 				<Original>Enter cryptokey:</Original>
-				<Czech>Zadejte kryptoklíč:</Czech>
+				<Czech>Zadej kryptoklíč:</Czech>
 				<Chinesesimp>输入密钥：</Chinesesimp>
 				<Russian>Ввести ключ:</Russian>
 			</Key>
@@ -4860,7 +4861,7 @@
 			</Key>
 			<Key ID="STR_RKD_KEY_NOT_ENTERED">
 				<Original>You must enter the key first!</Original>
-				<Czech>Nejprve musíte zadat klíč!</Czech>
+				<Czech>Nejprve musíš zadat klíč!</Czech>
 				<Chinesesimp>你必须先输入密钥！</Chinesesimp>
 				<Russian>Сначала вы должны ввести ключ!</Russian>
 			</Key>
@@ -4896,7 +4897,7 @@
 			</Key>
 			<Key ID="STR_RKD_OWN_KEY">
 				<Original>Key %1 belongs to our side!</Original>
-				<Czech>Klíč %1 patří na naši stranu!</Czech>
+				<Czech>Klíč %1 patří naší straně!</Czech>
 				<Chinesesimp>密钥%1是我方的！</Chinesesimp>
 				<Russian>Ключ %1 принадлежит нашей стороне!</Russian>
 			</Key>
@@ -4920,25 +4921,25 @@
 		<Container name="RecruitTab.h">
 			<Key ID="STR_RD_RECRUIT">
 				<Original>RECRUIT</Original>
-				<Czech>Nábor</Czech>
+				<Czech>REKRUTOVAT</Czech>
 				<Chinesesimp>征召</Chinesesimp>
 				<Russian>ВЕРБОВКА</Russian>
 			</Key>
 			<Key ID="STR_RD_LOADOUTS">
 				<Original>AVAILABLE LOADOUTS:</Original>
-				<Czech>DOSTUPNÁ PĚCHOTA:</Czech>
+				<Czech>DOSTUPNÁ VÝBAVA:</Czech>
 				<Chinesesimp>可用装备：</Chinesesimp>
 				<Russian>ДОСТУПНЫЕ ЗАГРУЗКИ:</Russian>
 			</Key>
 			<Key ID="STR_RD_WEAPONS">
 				<Original>WEAPONS:</Original>
-				<Czech>Zbraně:</Czech>
+				<Czech>ZBRANĚ:</Czech>
 				<Chinesesimp>武器：</Chinesesimp>
 				<Russian>ОРУЖИЕ:</Russian>
 			</Key>
 			<Key ID="STR_RD_GEAR">
 				<Original>GEAR:</Original>
-				<Czech>GEAR:</Czech>
+				<Czech>VÝBAVA:</Czech>
 				<Chinesesimp>服装：</Chinesesimp>
 				<Russian>ЭКИПИРОВКА:</Russian>
 			</Key>
@@ -4946,7 +4947,7 @@
 		<Container name="RecruitTab.sqf">
 			<Key ID="STR_RD_COUNT">
 				<Original>Counting recruits...</Original>
-				<Czech>Počet rekrutů...</Czech>
+				<Czech>Počítám rekruty...</Czech>
 				<Chinesesimp>正在点算新兵...</Chinesesimp>
 				<Russian>Подсчет новобранцев ...</Russian>
 			</Key>
@@ -4958,7 +4959,7 @@
 			</Key>
 			<Key ID="STR_RECRUITING">
 				<Original>Recruiting soldier...</Original>
-				<Czech>Nábor vojáků...</Czech>
+				<Czech>Nábor vojáka...</Czech>
 				<Chinesesimp>正在招募士兵...</Chinesesimp>
 				<Russian>Вербовка солдат...</Russian>
 			</Key>
@@ -5034,7 +5035,7 @@
 		<Container name="TacticalTablet.h">
 			<Key ID="STR_TT_TITLE">
 				<Original>MilTech inc.    Tacticool Tablet V1.1</Original>
-				<Czech>MilTech inc.    Taktické tablety V1.1</Czech>
+				<Czech>MilTech inc.    Takticool tablet V1.1</Czech>
 				<Chinesesimp>军科无限免责公司    战狼平板 V1.1</Chinesesimp>
 				<Russian>MilTech inc.    Tacticool Tablet V1.1</Russian>
 			</Key>
@@ -5042,7 +5043,7 @@
 		<Container name="UnitIntel.sqf">
 			<Key ID="STR_TT_TABLET_MSG_1">
 				<Original>Welcome to TactiCool OS v28.3!</Original>
-				<Czech>Vítejte na TactiCool OS v28.3!</Czech>
+				<Czech>Všj v TactiCool OS v28.3!</Czech>
 				<Chinesesimp>欢迎使用战狼OS v28.3!</Chinesesimp>
 				<Russian>Добро пожаловать в TactiCool OS v28. 3!</Russian>
 			</Key>
@@ -5054,7 +5055,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_3">
 				<Original>System date: %1, grid: %2</Original>
-				<Czech>Systémový datum: %1, grid: %2</Czech>
+				<Czech>Systémové datum: %1, grid: %2</Czech>
 				<Chinesesimp>系统日期: %1, 坐标: %2</Chinesesimp>
 				<Russian>Системная дата: %1, координаты: %2</Russian>
 			</Key>
@@ -5078,7 +5079,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_7">
 				<Original>Dammage: %1 percent</Original>
-				<Czech>Dammage: %1 procenta</Czech>
+				<Czech>Požkození: %1 procent</Czech>
 				<Chinesesimp>损伤: 百分之%1</Chinesesimp>
 				<Russian>Урон: %1 процент</Russian>
 			</Key>
@@ -5096,19 +5097,19 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_10">
 				<Original>Connection established!</Original>
-				<Czech>Navázáno spojení!</Czech>
+				<Czech>Spojení navázáno!</Czech>
 				<Chinesesimp>连接已建立!</Chinesesimp>
 				<Russian>Соединение установлено!</Russian>
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_11">
 				<Original>Logged in Altis Armed Forces TactiCommNetwork</Original>
-				<Czech>Přihlášeni v Altis ozbrojených sil TactiCommNetwork</Czech>
+				<Czech>Přihlášeni do Altiských ozbrojených sil TactiCommNetwork</Czech>
 				<Chinesesimp>登录至阿尔蒂斯陆军武装力量狼崽战网</Chinesesimp>
 				<Russian>Вход в систему Altis Armed Forces TactiCommNetwork</Russian>
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_12">
 				<Original>System date: %1</Original>
-				<Czech>Systémový datum: %1</Czech>
+				<Czech>Systémové datum: %1</Czech>
 				<Chinesesimp>系统日期: %1</Chinesesimp>
 				<Russian>Системная дата: %1</Russian>
 			</Key>
@@ -5164,7 +5165,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_14">
 				<Original>Retinal scan identity mismatch!</Original>
-				<Czech>nesoulad identity!</Czech>
+				<Czech>nesoulad ve skenu identity!</Czech>
 				<Chinesesimp>视网膜扫描身份不匹配！</Chinesesimp>
 				<Russian>Несоответствие идентификационных данных сканирования сетчатки!</Russian>
 			</Key>
@@ -5176,7 +5177,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_16">
 				<Original>  Radio cryptokey: %1</Original>
-				<Czech>Rádiový kryptoklíče: %1</Czech>
+				<Czech>Rádiový kryptoklíč: %1</Czech>
 				<Chinesesimp>  无线电密钥: %1</Chinesesimp>
 				<Russian>  Радиоключ: %1</Russian>
 			</Key>
@@ -5188,7 +5189,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_18">
 				<Original>  Current order: %1 at grid %2</Original>
-				<Czech>Aktuální: %1 souřadnice %2</Czech>
+				<Czech>Aktuální rozkaz: %1 souřadnice %2</Czech>
 				<Chinesesimp>  当前命令: %1于坐标%2</Chinesesimp>
 				<Russian>  Текущий приказ: %1 координаты %2</Russian>
 			</Key>
@@ -5200,7 +5201,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_20">
 				<Original>Departure from %1, at date %2</Original>
-				<Czech>Odchylka od %1 k datu %2</Czech>
+				<Czech>Odchod v %1 k datu %2</Czech>
 				<Chinesesimp>于%2自%1出发</Chinesesimp>
 				<Russian>Отправление из %1, на дату %2</Russian>
 			</Key>
@@ -5212,7 +5213,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_22">
 				<Original>  Friendly squad orders:</Original>
-				<Czech>Řád přátelského oddělení:</Czech>
+				<Czech>  Rozkazy přátelského družstva:</Czech>
 				<Chinesesimp>  友方班组命令:</Chinesesimp>
 				<Russian>  Приказ дружеского отряда:</Russian>
 			</Key>
@@ -5224,7 +5225,7 @@
 			</Key>
 			<Key ID="STR_TT_TABLET_MSG_24">
 				<Original> to %1</Original>
-				<Czech>až %1</Czech>
+				<Czech>do %1</Czech>
 				<Chinesesimp> 至%1</Chinesesimp>
 				<Russian> в %1</Russian>
 			</Key>
@@ -5274,7 +5275,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_4">
 				<Original>Ensure your radio frequency and channel!</Original>
-				<Czech>Zajistěte si rádiovou frekvenci a kanál!</Czech>
+				<Czech>Zajisti si rádiovou frekvenci a kanál!</Czech>
 				<Chinesesimp>调好自己的电台频率和频道！</Chinesesimp>
 				<Russian>Убедитесь, что радиочастота и канал ваши!</Russian>
 			</Key>
@@ -5316,7 +5317,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_11">
 				<Original>Don't stand in the backblast area.</Original>
-				<Czech>Nestůjte v zadu - BACKBLAST </Czech>
+				<Czech>Nestůj v zadu - BACKBLAST </Czech>
 				<Chinesesimp>别站在筒子尾焰区域里。</Chinesesimp>
 				<Russian>Не стой в зоне поражения.</Russian>
 			</Key>
@@ -5328,7 +5329,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_13">
 				<Original>Drive with caution when approaching wired fences.</Original>
-				<Czech>Jezděte s opatrností, v blízkosti drátěných plotů.</Czech>
+				<Czech>Jezdi s opatrností, v blízkosti drátěných plotů.</Czech>
 				<Chinesesimp>阿尔蒂斯第三交通委提醒您：道路千万条，安全第一条。</Chinesesimp>
 				<Russian>Проезжайте с осторожностью, приближаясь к проволочным заграждениям.</Russian>
 			</Key>
@@ -5340,7 +5341,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_15">
 				<Original>If you think the enemy is dead then shoot them again.</Original>
-				<Czech>Jestli si myslíte, že je nepřítel mrtvý, zastřelte ho znovu.</Czech>
+				<Czech>Jestli si myslš, že je nepřítel mrtvý, zastřelte ho znovu.</Czech>
 				<Chinesesimp>如果你觉得敌人已经死了，再补一枪又何妨。</Chinesesimp>
 				<Russian>Если вы думаете, что враг мертв, стреляйте в него снова.</Russian>
 			</Key>
@@ -5364,25 +5365,25 @@
 			</Key>
 			<Key ID="STR_GT_TIP_19">
 				<Original>Keep with you a long rifle and a friend with a long rifle.</Original>
-				<Czech>Mějte s sebou dlouhou pušku a přítele s dlouhou puškou.</Czech>
+				<Czech>Měj s sebou dlouhou pušku a přítele s dlouhou puškou.</Czech>
 				<Chinesesimp>步枪和带着步枪的伙伴缺一不可。</Chinesesimp>
 				<Russian>Держите при себе длинную винтовку и друга с длинной винтовкой.</Russian>
 			</Key>
 			<Key ID="STR_GT_TIP_20">
 				<Original>Don't aim at anything you don't intend to liberate!</Original>
-				<Czech>Nemiřte na nic, co nemáte v úmyslu osvobodit!</Czech>
+				<Czech>Nemiřte na nic, co nemáš v úmyslu osvobodit!</Czech>
 				<Chinesesimp>别瞄着不值得解脱的东西！</Chinesesimp>
 				<Russian>Не стремитесь ни к чему, что вы не собираетесь освобождать!</Russian>
 			</Key>
 			<Key ID="STR_GT_TIP_21">
 				<Original>If it's dark, bring nightvision. If you don't have nightvision, bring a flashlight. If you don't have a flashlight, bring some carrots.</Original>
-				<Czech>Pokud je tma, přineste noční vidění. Pokud nemáte noční vidění, přineste baterku. Pokud nemáte baterku, přineste mrkev.</Czech>
+				<Czech>Pokud je tma, přines noční vidění. Pokud nemáš noční vidění, přines baterku. Pokud nemáš baterku, přineste mrkev.</Czech>
 				<Chinesesimp>乌漆墨黑，就要夜视仪。不然的话手电也行。手电都没有的话，吃根胡萝卜吧。</Chinesesimp>
 				<Russian>Если темно, принесите ночное видение. Если у вас нет ночного видения, возьмите с собой фонарик. Если у вас нет фонарика, принесите морковь.</Russian>
 			</Key>
 			<Key ID="STR_GT_TIP_22">
 				<Original>Don't eat yellow snow and don't chew on blasting caps.</Original>
-				<Czech>Nejezte žlutý sníh a nehýbejte s rozbuškou.</Czech>
+				<Czech>Nejezte žlutý sníh a nehýbej s rozbuškou.</Czech>
 				<Chinesesimp>黄雪不能吃，雷管也不能咬。</Chinesesimp>
 				<Russian>Не ешьте желтый снег и не грызите капсюли-детонаторы.</Russian>
 			</Key>
@@ -5412,7 +5413,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_27">
 				<Original>If your gun jams, then start eating marmalade.</Original>
-				<Czech>Pokud je vaše zbraň zaseknutá, začněte jíst marmeládu.</Czech>
+				<Czech>Pokud je vaše zbraň zaseknutá, začni jíst marmeládu.</Czech>
 				<Chinesesimp>枪卡弹了？那就只能吃子弹了。</Chinesesimp>
 				<Russian>Если ваш пистолет заклинило, то начинайте есть мармелад.</Russian>
 			</Key>
@@ -5436,19 +5437,19 @@
 			</Key>
 			<Key ID="STR_GT_TIP_31">
 				<Original>If you forget your gun, remember that your friend's gun is a good replacement.</Original>
-				<Czech>Pokud zapomenete zbraň, nezapomeňte, že zbraň vašeho přítele je dobrou náhradou.</Czech>
+				<Czech>Pokud zapomeneš zbraň, nezapomeňte, že zbraň vašeho přítele je dobrou náhradou.</Czech>
 				<Chinesesimp>如果你忘带枪了，记得队友的枪也是个不错的备用品。</Chinesesimp>
 				<Russian>Если вы забыли свой пистолет, помните, что пистолет вашего друга - хорошая замена.</Russian>
 			</Key>
 			<Key ID="STR_GT_TIP_32">
 				<Original>If in doubt, shoot one out.</Original>
-				<Czech>Pokud máte pochybnosti, střílejte.</Czech>
+				<Czech>Pokud máš pochybnosti, střílej.</Czech>
 				<Chinesesimp>先开枪，后问话。</Chinesesimp>
 				<Russian>Если сомневаешься - стреляй.</Russian>
 			</Key>
 			<Key ID="STR_GT_TIP_33">
 				<Original>Do not stay behind AT and AA ... and also not in front.</Original>
-				<Czech>Nezůstávejte za AT a AA ... a také ne vpředu.</Czech>
+				<Czech>Nezůstávej za AT a AA ... a také ne vpředu.</Czech>
 				<Chinesesimp>别站在筒子的后面...当然也别站在前面。</Chinesesimp>
 				<Russian>Не стойте позади РПГ и ПВО ... и впереди не сттойте.</Russian>
 			</Key>
@@ -5484,7 +5485,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_39">
 				<Original>If your mate is down, clear the area first, patch him up later.</Original>
-				<Czech>Pokud je váš kámoš dole, nejdřív vyčistěte oblast a pak ho uzdravte.</Czech>
+				<Czech>Pokud je váš kámoš dole, nejdřív vyčisti oblast a pak ho uzdravte.</Czech>
 				<Chinesesimp>队友倒下后，先清场，再救人。</Chinesesimp>
 				<Russian>Если ваш друг ранен, сначала зачистите территорию, а потом уже залатайте его.</Russian>
 			</Key>
@@ -5496,7 +5497,7 @@
 			</Key>
 			<Key ID="STR_GT_TIP_41">
 				<Original>Please disable adblock to see the tip of the day.</Original>
-				<Czech>Když blokování reklam vypnete, uvidíte dnešní titulky.</Czech>
+				<Czech>Když blokování reklam vypnete, uvidíš dnešní titulky.</Czech>
 				<Chinesesimp>关闭广告拦截程序后即可看到今日头条。</Chinesesimp>
 				<Russian>Пожалуйста, отключите блокировку рекламы, чтобы увидеть подсказку дня.</Russian>
 			</Key>
@@ -5590,19 +5591,19 @@
 		<Container name="onPlayerSpawn.sqf">
 			<Key ID="STR_PS_CONTROLS">
 				<Original>CONTROLS</Original>
-				<Czech>CONTROLS</Czech>
+				<Czech>OVLÁDÁNÍ</Czech>
 				<Chinesesimp>控制</Chinesesimp>
 				<Russian>УПРАВЛЕНИЕ</Russian>
 			</Key>
 			<Key ID="STR_PS_U_FOR_MENU">
 				<Original>Press [U] to open the in-game menu</Original>
-				<Czech>Stisknutím klávesy [U] otevřete nabídku ve hře.</Czech>
+				<Czech>Stisknutím klávesy [U] otevřeš nabídku ve hře.</Czech>
 				<Chinesesimp>按[U]开启游戏内菜单</Chinesesimp>
 				<Russian>Нажмите [U], чтобы открыть внутриигровое меню</Russian>
 			</Key>
 			<Key ID="STR_PS_CHECK_TUTORIAL">
 				<Original>Make sure to check the tutorial.</Original>
-				<Czech>Nezapomeňte skouknout výukový program.</Czech>
+				<Czech>Nezapomeň se podívat na návod.</Czech>
 				<Chinesesimp>一定要查看教程哦。</Chinesesimp>
 				<Russian>Обязательно ознакомьтесь с руководством.</Russian>
 			</Key>
@@ -5642,7 +5643,7 @@
 			</Key>
 			<Key ID="STR_CW_PER_HOUR">
 				<Original>PER HOUR</Original>
-				<Czech>V ČASE</Czech>
+				<Czech>ZA HODINU</Czech>
 				<Chinesesimp>每小时</Chinesesimp>
 				<Russian>В ЧАС</Russian>
 			</Key>
@@ -5656,7 +5657,7 @@
 		<Container name="CivilWarGameMode.sqf">
 			<Key ID="STR_CW_WON_NO_AIRPORT">
 				<Original>You won! The enemy have no fight left in them.</Original>
-				<Czech>Vyhrál jsi! Nepřítel přestal bojovat.</Czech>
+				<Czech>Vyhrál jsi! Nepřítel nedokáže už bojovat.</Czech>
 				<Chinesesimp>你胜利了！敌人完全丧失了斗志。</Chinesesimp>
 				<Russian>Ты победил! У врага не осталось сил сражаться.</Russian>
 			</Key>
@@ -5670,19 +5671,19 @@
 		<Container name="CivilWarLocationData.sqf">
 			<Key ID="STR_CW_LOCATION_CLAIMED">
 				<Original>LOCATION CLAIMED</Original>
-				<Czech>MÍSTO NÁROKOVÁNO</Czech>
+				<Czech>MÍSTO OBSAZENO</Czech>
 				<Chinesesimp>已索取地点</Chinesesimp>
 				<Russian>ЗАЯВЛЕННОЕ МЕСТО</Russian>
 			</Key>
 			<Key ID="STR_CW_WAS_CLAIMED">
 				<Original>%1 was claimed</Original>
-				<Czech>%1 bylo nárokováno.</Czech>
+				<Czech>%1 bylo obsazeno.</Czech>
 				<Chinesesimp>已索取%1</Chinesesimp>
 				<Russian>%1 было заявлено</Russian>
 			</Key>
 			<Key ID="STR_CW_LOCATION_CLAIMED_HINT">
 				<Original>Garrison some fighters to hold it</Original>
-				<Czech>Posádka, bojovníci držet místo</Czech>
+				<Czech>Přidej do posádky, bojovníky, aby mohli udržet místo</Czech>
 				<Chinesesimp>让战士们驻扎在这里防守</Chinesesimp>
 				<Russian>Гарнизон нескольких бойцов, чтобы удержать его.</Russian>
 			</Key>
@@ -5700,7 +5701,7 @@
 			</Key>
 			<Key ID="STR_CW_LOCATION_LOST_HINT">
 				<Original>Send some fighters to retake it</Original>
-				<Czech>Pošlete bojovníky, aby to obsadili.</Czech>
+				<Czech>Pošleš bojovníky, aby to obsadili zpět.</Czech>
 				<Chinesesimp>派遣战士们去夺回那里</Chinesesimp>
 				<Russian>Пошлите несколько бойцов, чтобы отбить его</Russian>
 			</Key>
@@ -5726,7 +5727,7 @@
 			</Key>
 			<Key ID="STR_GMB_MENU_FROM_INV">
 				<Original>Open Build Menu from inventory</Original>
-				<Czech>Otevřít nabídku skladu</Czech>
+				<Czech>Otevřít nabídku stavění z inventáře</Czech>
 				<Chinesesimp>用物品栏物资开启建造菜单</Chinesesimp>
 				<Russian>Откройте Меню Строительства из инвентаря</Russian>
 			</Key>
@@ -5758,7 +5759,7 @@
 		<Container name="CivilWarGameMode.sqf">
 			<Key ID="STR_GMB_NEUTRAL">
 				<Original>Neutral</Original>
-				<Czech>Neutral</Czech>
+				<Czech>Neutralní</Czech>
 				<Chinesesimp>中立</Chinesesimp>
 				<Russian>Нейтральный</Russian>
 			</Key>
@@ -5792,7 +5793,7 @@
 			</Key>
 			<Key ID="STR_PM_STARTED">
 				<Original>STARTED</Original>
-				<Czech>Začít</Czech>
+				<Czech>ZAČALO</Czech>
 				<Chinesesimp>已开始</Chinesesimp>
 				<Russian>НАЧАЛО</Russian>
 			</Key>
@@ -5810,19 +5811,19 @@
 			</Key>
 			<Key ID="STR_NOTI_UNITS_ASSIGNED_HINT">
 				<Original>%1 units assigned to %2</Original>
-				<Czech>%1 jednotek přiřazených %2</Czech>
+				<Czech>%1 jednotek přiřazených do %2</Czech>
 				<Chinesesimp>%1个单位已被分配给%2</Chinesesimp>
 				<Russian>%1 юниты назначены %2</Russian>
 			</Key>
 			<Key ID="STR_NOTI_UNITS_ASSIGNED_DESC">
 				<Original>They are now under direct control</Original>
-				<Czech>Nyní jsou pod přímou kontrolou</Czech>
+				<Czech>Teď jsou pod přímou kontrolou</Czech>
 				<Chinesesimp>他们现在处于直接控制下</Chinesesimp>
 				<Russian>Сейчас они под прямым контролем</Russian>
 			</Key>
 			<Key ID="STR_NOTI_AT_LOC">
 				<Original>at %1</Original>
-				<Czech>při %1</Czech>
+				<Czech>v %1</Czech>
 				<Chinesesimp>位于%1</Chinesesimp>
 				<Russian>в %1</Russian>
 			</Key>
@@ -5834,19 +5835,19 @@
 			</Key>
 			<Key ID="STR_NOTI_CAPTURED_FILLER">
 				<Original>captured</Original>
-				<Czech>zajat</Czech>
+				<Czech>zajata</Czech>
 				<Chinesesimp>占领</Chinesesimp>
 				<Russian>захвачен</Russian>
 			</Key>
 			<Key ID="STR_NOTI_DESTROYED_FILLER">
 				<Original>destroyed</Original>
-				<Czech>Zničeno</Czech>
+				<Czech>zabita</Czech>
 				<Chinesesimp>摧毁</Chinesesimp>
 				<Russian>уничтожен</Russian>
 			</Key>
 			<Key ID="STR_NOTI_CAPTURED_DESC">	<!--Garrison %1(name of the location) %2(captured or destryoed) by enemy-->
 				<Original>Garrison %1 was %2 by enemy</Original>
-				<Czech>Posádka %1 byla %2 obsazeno nepřítelem</Czech>
+				<Czech>Posádka %1 byla %2 nepřítelem</Czech>
 				<Chinesesimp>%1的驻地已被敌军%2</Chinesesimp>
 				<Russian>Гарнизон %1 занят противником %2</Russian>
 			</Key>
@@ -5858,37 +5859,37 @@
 			</Key>
 			<Key ID="STR_NOTI_VEHICLE_DETACHED_HINT_FROM_LOC">
 				<Original>%1 was automatically detached from garrison at %2</Original>
-				<Czech>%1 byla automaticky oddělena od posádky v %2.</Czech>
+				<Czech>%1 bylo automaticky odděleno od posádky v %2.</Czech>
 				<Chinesesimp>%1已经自动从%2驻地脱离</Chinesesimp>
 				<Russian>%1 был автоматически отделен от гарнизона в %2</Russian>
 			</Key>
 			<Key ID="STR_NOTI_VEHICLE_DETACHED_HINT">
 				<Original>%1 was automatically detached from garrison</Original>
-				<Czech>%1 byla automaticky oddělena od posádky.</Czech>
+				<Czech>%1 bylo automaticky odděleno od posádky.</Czech>
 				<Chinesesimp>%1已自动从驻地脱离</Chinesesimp>
 				<Russian>%1 был автоматически отделен от гарнизона</Russian>
 			</Key>
 			<Key ID="STR_NOTI_VEHICLE_DETACHED">
 				<Original>VEHICLE DETACHED</Original>
-				<Czech>VOZIDLO ODPOJENÉ</Czech>
+				<Czech>VOZIDLO ODPOJENO</Czech>
 				<Chinesesimp>载具已脱离</Chinesesimp>
 				<Russian>ТЕХНИКА ОТСОЕДИНЕНА</Russian>
 			</Key>
 			<Key ID="STR_NOTI_VEHICLE_DETACHED_DESC">
 				<Original>It will be no longer be saved here</Original>
-				<Czech>Tady už nebude uložen.</Czech>
+				<Czech>Tady už nebude uloženo.</Czech>
 				<Chinesesimp>它不会继续保存在这里</Chinesesimp>
 				<Russian>Он больше не будет храниться здесь</Russian>
 			</Key>
 			<Key ID="STR_NOTI_VEHICLE_ATTACHED">
 				<Original>VEHICLE ATTACHED</Original>
-				<Czech>PŘIPOJIT VOZIDLO</Czech>
+				<Czech>VOZIDLO PŘIPOJENO</Czech>
 				<Chinesesimp>载具已停靠</Chinesesimp>
 				<Russian>ТЕХНИКА ПРИСОЕДИНЕНА</Russian>
 			</Key>
 			<Key ID="STR_NOTI_VEHICLE_ATTACHED_HINT">
 				<Original>%1 was automatically attached to garrison at %2</Original>
-				<Czech>%1 byla automaticky připojena k posádce %2.</Czech>
+				<Czech>%1 bylo automaticky připojeno k posádce %2.</Czech>
 				<Chinesesimp>%1已自动停靠至%2驻地</Chinesesimp>
 				<Russian>%1 был автоматически присоединен к гарнизону в %2</Russian>
 			</Key>
@@ -5970,13 +5971,13 @@
 			</Key>
 			<Key ID="STR_LOC_GONE_HINT">
 				<Original>Garrison fighters to maintain locations</Original>
-				<Czech>Vytvořit bojovníky k udržení místa</Czech>
+				<Czech>Přidej do posádky bojovníky pro udržení míst</Czech>
 				<Chinesesimp>将战士们驻扎到此处来维持控制权</Chinesesimp>
 				<Russian>Бойцы гарнизона для поддержания локации</Russian>
 			</Key>
 			<Key ID="STR_LOC_OUTPOST">
 				<Original>Outpost</Original>
-				<Czech>Základna</Czech>
+				<Czech>Předsunutá základna</Czech>
 				<Chinesesimp>哨站</Chinesesimp>
 				<Russian>Аванпост</Russian>
 			</Key>
@@ -5988,13 +5989,13 @@
 			</Key>
 			<Key ID="STR_LOC_BASE">
 				<Original>Base</Original>
-				<Czech>Base</Czech>
+				<Czech>Základna</Czech>
 				<Chinesesimp>基地</Chinesesimp>
 				<Russian>База</Russian>
 			</Key>
 			<Key ID="STR_LOC_UNKOWN">
 				<Original>Unknown</Original>
-				<Czech>Neznámý</Czech>
+				<Czech>Neznámé</Czech>
 				<Chinesesimp>未知</Chinesesimp>
 				<Russian>Неизвестно</Russian>
 			</Key>
@@ -6079,7 +6080,7 @@
 			</Key>
 			<Key ID="STR_LOC_REPAIR_CHECK_VEHICLES_CLOSE">
 				<Original>Check if the vehicles are close enough.</Original>
-				<Czech>Zkontrolujte, zda jsou vozidla dostatečně blízko.</Czech>
+				<Czech>Zkontroluj, zda jsou vozidla dostatečně blízko.</Czech>
 				<Russian>Проверьте, достаточно ли близко стоят машины.</Russian>
 			</Key>
 			<Key ID="STR_LOC_MANAGE_KEYS">
@@ -6102,13 +6103,13 @@
 			</Key>
 			<Key ID="STR_ITEM_DOCUMENTS_DESC_1">
 				<Original>A few military documents. Pick it up to study the intel.</Original>
-				<Czech>Pár vojenských dokumentů. Vyzvedněte si a prostudujte si informace.</Czech>
+				<Czech>Pár vojenských dokumentů. Vyzvedni si a prostuduj si informace.</Czech>
 				<Chinesesimp>一些军事文件。捡起即可获得情报。</Chinesesimp>
 				<Russian>Несколько военных документов. Возьмите их, чтобы изучить информацию.</Russian>
 			</Key>
 			<Key ID="STR_ITEM_DOCUMENTS_DESC_2">
 				<Original>Some military documents. Pick it up to study the intel.</Original>
-				<Czech>Vojenské dokumenty. Vyzvedněte si a prostudujte si informace.</Czech>
+				<Czech>Vojenské dokumenty. Vyzvedni si a prostuduj si informace.</Czech>
 				<Chinesesimp>一些军事文件。捡起即可获得情报。</Chinesesimp>
 				<Russian>Кое-какие военные документы. Возьмите их, чтобы изучить разведданные.</Russian>
 			</Key>
@@ -6120,7 +6121,7 @@
 			</Key>
 			<Key ID="STR_ITEM_TACTICAL_TABLET_DESC">
 				<Original>A military tactical tablet. Pick it up to study the intel.</Original>
-				<Czech>Vojenská taktická deska. Vyzvedněte si a prostudujte si informace.</Czech>
+				<Czech>Vojenská taktická deska. Vyzvedni si a prostuduj si informace.</Czech>
 				<Chinesesimp>一个军用战术平板电脑。捡起即可获得情报。</Chinesesimp>
 				<Russian>Военный тактический планшет. Возьмите его, чтобы изучить информацию.</Russian>
 			</Key>
@@ -6132,7 +6133,7 @@
 			</Key>
 			<Key ID="STR_ITEM_PERSONAL_TABLET_DESC">
 				<Original>A personal tablet. Pick it up to study the intel.</Original>
-				<Czech>Osobní tablet. Vyzvedněte si a prostudujte si informace.</Czech>
+				<Czech>Osobní tablet. Vyzvedni si a prostuduj si informace.</Czech>
 				<Chinesesimp>一个个人平板电脑。捡起即可获得情报。</Chinesesimp>
 				<Russian>Личный планшет. Возьмите его, чтобы изучить информацию.</Russian>
 			</Key>
@@ -6156,7 +6157,7 @@
 			</Key>
 			<Key ID="STR_ITEM_STRANGE_PILLS_DESC">
 				<Original>!! Don't use it if you can't tolerate flashing images !! Double-click to use. Carefully.</Original>
-				<Czech>!! Nepoužívejte jej, pokud nemůžete tolerovat blikající obrázky !! Poklepáním chcete použít. Pečlivě.</Czech>
+				<Czech>!! Nepoužívej jej, pokud nemůžeš tolerovat blikající obrázky !! Poklepáním chceš použít. Pečlivě.</Czech>
 				<Chinesesimp>!! 无法承受闪烁效果者误用此物 !! 双击使用。小心。</Chinesesimp>
 				<Russian>!! Не используйте его, если вы не переносите мигающие изображения !! Дважды щелкните, чтобы использовать. Внимательно.</Russian>
 			</Key>
@@ -6344,7 +6345,7 @@
 			</Key>
 			<Key ID="STR_ROSTER_R_JTAC">
 				<Original>Recon JTAC</Original>
-				<Czech>Průzkumní Letecký střelec</Czech>
+				<Czech>Průzkumný Letecký střelec</Czech>
 				<Chinesesimp>侦察对地引导员</Chinesesimp>
 				<Russian>Разведчик Авианаводчик</Russian>
 			</Key>
@@ -6664,13 +6665,13 @@
 		<Container name="cargoBox">
 			<Key ID="STR_ROSTER_BOX_UNKNOWN">
 				<Original>Unknown Cargo Box</Original>
-				<Czech>Neznámý nákladní box</Czech>
+				<Czech>Neupřesněný nákladní box</Czech>
 				<Chinesesimp>未知货箱</Chinesesimp>
 				<Russian>Неизвестный Груз.Ящик</Russian>
 			</Key>
 			<Key ID="STR_ROSTER_BOX_SMALL">
 				<Original>Small Cargo Box</Original>
-				<Czech>Malí nákladní box</Czech>
+				<Czech>Malý nákladní box</Czech>
 				<Chinesesimp>小型货箱</Chinesesimp>
 				<Russian>Малый Грузовой Ящик</Russian>
 			</Key>
